@@ -1,6 +1,3 @@
-## Hi there 👋
-
-<!--
 **GabsDevX/GabsDevX** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 <h1 align="center">Oi, eu sou o Gabriel de Almeida</h1>
 
