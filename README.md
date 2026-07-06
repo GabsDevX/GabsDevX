@@ -9,10 +9,10 @@
   </a>
 </div>
 <p align="center">
-  <a href="javascript:void(0);"><img src="https://img.shields.io/badge/Protocol-v1.0.4-FF6600?style=for-the-badge&logo=polkadot&logoColor=white" alt="Version"/></a>
-  <a href="javascript:void(0);"><img src="https://img.shields.io/badge/Status-Edge_Testing-10B981?style=for-the-badge&logo=git&logoColor=white" alt="Status"/></a>
-  <a href="javascript:void(0);"><img src="https://img.shields.io/badge/Hardware-TPM_2.0_%7C_ATECC608A-374151?style=for-the-badge&logo=microchip&logoColor=white" alt="Hardware"/></a>
-  <a href="javascript:void(0);"><img src="https://img.shields.io/badge/Ledger-L2_Arbitrum_%7C_DREX-2563EB?style=for-the-badge&logo=ethereum&logoColor=white" alt="Ledger"/></a>
+  <img src="https://img.shields.io/badge/Protocol-v1.0.4-FF6600?style=for-the-badge&logo=polkadot&logoColor=white" alt="Version" style="pointer-events: none;" />
+  <img src="https://img.shields.io/badge/Status-Edge_Testing-10B981?style=for-the-badge&logo=git&logoColor=white" alt="Status" style="pointer-events: none;" />
+  <img src="https://img.shields.io/badge/Hardware-TPM_2.0_%7C_ATECC608A-374151?style=for-the-badge&logo=microchip&logoColor=white" alt="Hardware" style="pointer-events: none;" />
+  <img src="https://img.shields.io/badge/Ledger-L2_Arbitrum_%7C_DREX-2563EB?style=for-the-badge&logo=ethereum&logoColor=white" alt="Ledger" style="pointer-events: none;" />
 </p>
 
 ---
