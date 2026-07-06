@@ -1,4 +1,3 @@
-`README.md` 
 <div align="center">
   <img width="1774" height="887" alt="ChatGPT Image 4 de jul  de 2026, 00_19_45" src="https://github.com/user-attachments/assets/84feb762-f169-466c-be01-3311d34c576b" />
 
