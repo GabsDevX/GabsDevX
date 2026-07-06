@@ -44,14 +44,21 @@ I am a Cyber-Physical Systems (CPS) Architect and Full-Stack Infrastructure Engi
 
 ## 🏢 2. The Intellectual Property Holding
 
-All research, proprietary edge architectures, trade secrets, and software structures developed under my leadership are strictly centralized and legally protected under a dedicated corporate IP shield.
+## 🏢 2. The Intellectual Property Holding
 
-| Entity Attribute | Corporate Registry |
+All research, proprietary edge architectures, trade secrets, and software structures developed under my leadership are strictly centralized and legally protected under a dedicated corporate IP shield, strictly governed by Brazilian and International Intellectual Property Laws. 
+
+This infrastructure is fully enforced under **Brazilian Software Law (Lei nº 9.609/1998)**, **Brazilian Industrial Property Law (Lei nº 9.279/1996)**, and **Law nº 14.063/2020** regarding cryptographic electronic signatures, alongside international protections mandated by the **TRIPS Agreement (Trade-Related Aspects of Intellectual Property Rights)** and the **WIPO (World Intellectual Property Organization)** framework.
+
+| Entity Attribute | Corporate & Legal Registry |
 | :--- | :--- |
 | **Corporate Name** | 58.046.660 Gabriel de Almeida Santos Silva |
 | **National Registry (CNPJ)** | 58.046.660/0001-93 |
-| **Jurisdiction** | Brazil (BR) |
+| **Jurisdiction** | Brazil (BR) // Sovereign International Treaties |
+| **Legal Enforcement** | Lei 9.609/98 (Software) // Lei 9.279/96 (Industrial Property) // TRIPS Agreement |
 | **IP Governance Model** | Tech Holding for Software Licensing & Metrological Oracle Models |
+
+---
 
 ---
 
@@ -59,8 +66,9 @@ All research, proprietary edge architectures, trade secrets, and software struct
 
 The **Proof of Waste Value (PoWV) Protocol** is a foundational sovereign infrastructure designed to capture, validate, and secure the truth at the absolute edge of high-value trillion-dollar supply chains.
 
-### 🎯 The Trillion-Dollar Market Opportunity
-Traditional tokenization models for Real-World Assets (RWA) fail because they suffer from the **Cyber-Physical Oracle Problem**. They rely on editable central databases, human reports, and digital spreadsheets. In the multi-trillion-dollar global commodities market, this security gap leads to massive systemic fraud, ghost tare manipulation, and multi-million dollar settlement disputes.
+### ### 🎯 The Trillion-Dollar Market Opportunity
+
+Traditional tokenization models for Real-World Assets (RWA) fail because they suffer from the **Cyber-Physical Oracle Problem**. They rely on editable central databases, human reports, and digital spreadsheets. In the multi-trillion-dollar global commodities market—projected by global institutions like <a href="https://www.bcg.com/publications/2022/relevance-of-on-chain-asset-tokenization-in-crypto-winter" target="_blank">Boston Consulting Group (BCG)</a> to reach $16 Trillion—this security gap leads to massive systemic fraud, ghost tare manipulation, and multi-million dollar settlement disputes.
 
 PoWV fixes this by implementing an immutable bridge that mathematically locks physical weight to decentralized ledgers at the exact point of acquisition.
 
