@@ -74,8 +74,11 @@ PoWV fixes this by implementing an immutable bridge that mathematically locks ph
 
 ### ⚡ The Core Value Proposition: Non-Invasive Admissibility
 The protocol acts as a **Trust Toll (Pedágio de Confiança)** over the physical flow of global commodities.
+
 * **Zero Infrastructure Disruption:** We leverage existing physical ground scales and heavy infrastructure, implementing non-intrusive sensorization. *We do not replace million-dollar assets—we make them cryptographically non-repudiable without civil works.*
+
 * **High-Margin IP Operations:** Leveraging pure software licensing and cryptographic verification fees through a secure corporate framework, completely insulated from physical liabilities.
+
 * **Gargalo-Driven Capture:** Operating exclusively at major transport choke points, corridors, and maritime ports to capture and audit massive slices of heavy-freight GDP.
 
 ---
@@ -101,8 +104,11 @@ The PoWV Protocol platform operates as an umbrella infrastructure deploying secu
 The PoWV Protocol architecture and its operational verticals are strategically ring-fenced under our intellectual property holding company. To ensure systematic risk mitigation and deterministic value scaling for institutional partners, our capital deployment and asset delivery follow a strict, multi-phased governance roadmap:
 
 * **Proof of Concept (PoC):** Completed. Validation of non-invasive physical signal capture, edge cryptography, and satellite payload compression under real-world isolation.
+
 * **Minimum Viable Product (MVP):** Ongoing deployment. Hardening the hardware-in-the-loop firmware and verifying the initial data ledger anchoring in high-throughput environments.
+
 * **Industrial Pilot Phase:** Upcoming execution alongside strategic logistics partners to secure deep-freight corridors and capture multi-tonnage infrastructure data flows.
+
 * **Future Inflows & Off-Take Contracts:** Structured through pure software-licensing frameworks, recurring service fees, and algorithmic transaction tolls, heavily insulated from heavy asset liability.
 
 ### 🚀 Investor & Private Equity Inquiries
@@ -113,6 +119,7 @@ We are selectively opening discussions for strategic fomento, ecosystem developm
 For executive inquiries, pitch deck access, or to schedule a formal evaluation briefing under NDA, contact the Lead Architect directly via email or audit the enterprise flagship ledger architecture on our official organization repository:
 
 * **Executive Contact:** **[gabriel@powvprotocol.com](mailto:gabriel@powvprotocol.com)**
+
 * **Core Infrastructure Node:** **[github.com/powvprotocol-org](https://github.com/powvprotocol-org)**
 
 ---
