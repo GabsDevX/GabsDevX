@@ -44,8 +44,6 @@ I am a Cyber-Physical Systems (CPS) Architect and Full-Stack Infrastructure Engi
 
 ## 🏢 2. The Intellectual Property Holding
 
-## 🏢 2. The Intellectual Property Holding
-
 All research, proprietary edge architectures, trade secrets, and software structures developed under my leadership are strictly centralized and legally protected under a dedicated corporate IP shield, strictly governed by Brazilian and International Intellectual Property Laws. 
 
 This infrastructure is fully enforced under **Brazilian Software Law (Lei nº 9.609/1998)**, **Brazilian Industrial Property Law (Lei nº 9.279/1996)**, and **Law nº 14.063/2020** regarding cryptographic electronic signatures, alongside international protections mandated by the **TRIPS Agreement (Trade-Related Aspects of Intellectual Property Rights)** and the **WIPO (World Intellectual Property Organization)** framework.
