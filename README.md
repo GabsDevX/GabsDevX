@@ -8,12 +8,11 @@
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=26&duration=4000&pause=1000&color=FF6600&center=true&vCenter=true&width=800&lines=Solving+the+Oracle+Problem;Physical-Digital+Integrity+Architecture;Real-World+Asset+(RWA)+Convergence;Hardware+Root+of+Trust" alt="Typing SVG" />
   </a>
 </div>
-
 <p align="center">
-  <img src="https://img.shields.io/badge/Protocol-v1.0.4-FF6600?style=for-the-badge&logo=polkadot&logoColor=white" alt="Version"/>
-  <img src="https://img.shields.io/badge/Status-Edge_Testing-10B981?style=for-the-badge&logo=git&logoColor=white" alt="Status"/>
-  <img src="https://img.shields.io/badge/Hardware-TPM_2.0_%7C_ATECC608A-374151?style=for-the-badge&logo=microchip&logoColor=white" alt="Hardware"/>
-  <img src="https://img.shields.io/badge/Ledger-L2_Arbitrum_%7C_DREX-2563EB?style=for-the-badge&logo=ethereum&logoColor=white" alt="Ledger"/>
+  <a href="javascript:void(0);"><img src="https://img.shields.io/badge/Protocol-v1.0.4-FF6600?style=for-the-badge&logo=polkadot&logoColor=white" alt="Version"/></a>
+  <a href="javascript:void(0);"><img src="https://img.shields.io/badge/Status-Edge_Testing-10B981?style=for-the-badge&logo=git&logoColor=white" alt="Status"/></a>
+  <a href="javascript:void(0);"><img src="https://img.shields.io/badge/Hardware-TPM_2.0_%7C_ATECC608A-374151?style=for-the-badge&logo=microchip&logoColor=white" alt="Hardware"/></a>
+  <a href="javascript:void(0);"><img src="https://img.shields.io/badge/Ledger-L2_Arbitrum_%7C_DREX-2563EB?style=for-the-badge&logo=ethereum&logoColor=white" alt="Ledger"/></a>
 </p>
 
 ---
