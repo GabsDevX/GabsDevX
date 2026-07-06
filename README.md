@@ -1,8 +1,9 @@
 `README.md` 
 <div align="center">
-  <img src="logo0.png" alt="PoWV Protocol Logo" width="140" style="margin-bottom: 20px;"/>
-  
-  <img src="ChatGPT Image 20 de jun. de 2026, 12_49_14.png" alt="Hardware Rooted Trust Architecture" width="100%" style="border-radius: 10px; box-shadow: 0 0 20px rgba(255, 102, 0, 0.2); margin-bottom: 20px;"/>
+  <img width="1774" height="887" alt="ChatGPT Image 4 de jul  de 2026, 00_19_45" src="https://github.com/user-attachments/assets/84feb762-f169-466c-be01-3311d34c576b" />
+
+
+<img width="1280" height="640" alt="logo3" src="https://github.com/user-attachments/assets/3859d621-59ff-43d0-a276-67945c8e8b12" />
 
   <a href="https://powvprotocol.org">
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=26&duration=4000&pause=1000&color=FF6600&center=true&vCenter=true&width=800&lines=Solving+the+Oracle+Problem;Physical-Digital+Integrity+Architecture;Real-World+Asset+(RWA)+Convergence;Hardware+Root+of+Trust" alt="Typing SVG" />
