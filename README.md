@@ -65,8 +65,7 @@ This infrastructure is fully enforced under **Brazilian Software Law (Lei nº 9.
 The **Proof of Waste Value (PoWV) Protocol** is a foundational sovereign infrastructure designed to capture, validate, and secure the truth at the absolute edge of high-value trillion-dollar supply chains.
 
 🎯 The Trillion-Dollar Market Opportunity
-
-Traditional tokenization models for Real-World Assets (RWA) fail because they suffer from the **Cyber-Physical Oracle Problem**. They rely on editable central databases, human reports, and digital spreadsheets. In the multi-trillion-dollar global commodities market—projected by global institutions like <a href="https://www.bcg.com/publications/2022/relevance-of-on-chain-asset-tokenization-in-crypto-winter" target="_blank">Boston Consulting Group BCG   </a> to reach $16 Trillion—this security gap leads to massive systemic fraud, ghost tare manipulation, and multi-million dollar settlement disputes.
+Traditional tokenization models for Real-World Assets (RWA) fail because they suffer from the **Cyber-Physical Oracle Problem**. They rely on editable central databases, human reports, and digital spreadsheets. In the multi-trillion-dollar global commodities market—projected by global institutions like the <a href="https://www.bcg.com" target="_blank">Boston Consulting Group (BCG)</a> to scale into a $16 Trillion asset class—this security gap leads to massive systemic fraud, ghost tare manipulation, and multi-million dollar settlement disputes.
 
 PoWV fixes this by implementing an immutable bridge that mathematically locks physical weight to decentralized ledgers at the exact point of acquisition.
 
