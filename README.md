@@ -36,13 +36,13 @@
 
 ---
 
-## 🏛️ 1. The Architect: Gabriel de Almeida
+## 🏛️  The Architect: Gabriel de Almeida
 
 I am a Cyber-Physical Systems (CPS) Architect and Full-Stack Infrastructure Engineer specializing in hardware-rooted security, decentralized data consensus, and trust enforcement for heavy industry supply chains. My work converges physical reality with irreversible digital hylomorphism, transforming raw physical metrics into globally admitted economic evidence.
 
 ---
 
-## 🏢 2. The Intellectual Property Holding
+## 🏢  The Intellectual Property Holding
 
 All research, proprietary edge architectures, trade secrets, and software structures developed under my leadership are strictly centralized and legally protected under a dedicated corporate IP shield, strictly governed by Brazilian and International Intellectual Property Laws. 
 
@@ -60,7 +60,7 @@ This infrastructure is fully enforced under **Brazilian Software Law (Lei nº 9.
 
 ---
 
-## ⬛ 3. The Flagship Ecosystem: PoWV Protocol™
+## ⬛ The Flagship Ecosystem: PoWV Protocol™
 
 The **Proof of Waste Value (PoWV) Protocol** is a foundational sovereign infrastructure designed to capture, validate, and secure the truth at the absolute edge of high-value trillion-dollar supply chains.
 
@@ -79,7 +79,7 @@ The protocol acts as a **Trust Toll (Pedágio de Confiança)** over the physical
 
 ---
 
-## 🗂️ 4. Operational Verticals & Industrial Umbrella
+## 🗂️  Operational Verticals & Industrial Umbrella
 
 The PoWV Protocol platform operates as an umbrella infrastructure deploying secure, edge-computed data packages across key strategic verticals:
 
@@ -91,7 +91,7 @@ The PoWV Protocol platform operates as an umbrella infrastructure deploying secu
 
 ---
 
-## 💼 5. Institutional Governance & Capital Deployment Roadmap
+## 💼  Institutional Governance & Capital Deployment Roadmap
 
 The PoWV Protocol architecture and its operational verticals are strategically ring-fenced under our intellectual property holding company. To ensure systematic risk mitigation and deterministic value scaling for institutional partners, our capital deployment and asset delivery follow a strict, multi-phased governance roadmap:
 
