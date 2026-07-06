@@ -128,5 +128,6 @@ For executive inquiries, pitch deck access, or to schedule a formal evaluation b
 
 <p align="center">
   <i>"Tracks exist. Scales exist. Satellites exist. What was missing was ADMISSIBILITY."</i><br>
+    
   <b>© 2026 PoWV Protocol™ // Gabriel de Almeida Santos Silva. All Rights Reserved.</b>
 </p>
