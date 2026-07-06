@@ -87,6 +87,6 @@ The PoWV Protocol platform operates as an umbrella infrastructure deploying secu
 <br>
 
 <p align="center">
-  <i>"Trilhos existem. Balanças existem. Satélites existem. O que faltava era ADMISSIBILIDADE."</i><br>
+  <i>"Tracks exist. Scales exist. Satellites exist. What was missing was ADMISSIBILITY."</i><br>
   <b>© 2026 PoWV Protocol™ // Gabriel de Almeida Santos Silva. All Rights Reserved.</b>
 </p>
