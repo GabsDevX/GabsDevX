@@ -1,4 +1,4 @@
-**GabsDevX/GabsDevX** `README.md` (this file) appears on your GitHub profile.
+`README.md` (this file) appears on your GitHub profile.
 <h1 align="center">Oi, eu sou o Gabriel de Almeida</h1>
 
 <p align="center">
