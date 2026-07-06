@@ -105,7 +105,10 @@ We are selectively opening discussions for strategic fomento, ecosystem developm
 
 > 🔐 *All forward-looking financials, architecture blueprints, pilot performance data, and proprietary commercial contracts are strictly protected under Mutual Non-Disclosure Agreements (MNDA).*
 
-For executive inquiries, pitch deck access, or to schedule a formal evaluation briefing under NDA, contact the Lead Architect directly at: **[gabriel@powvprotocol.com](mailto:gabriel@powvprotocol.com)**
+For executive inquiries, pitch deck access, or to schedule a formal evaluation briefing under NDA, contact the Lead Architect directly via email or audit the enterprise flagship ledger architecture on our official organization repository:
+
+* **Executive Contact:** **[gabriel@powvprotocol.com](mailto:gabriel@powvprotocol.com)**
+* **Core Infrastructure Node:** **[github.com/powvprotocol-org](https://github.com/powvprotocol-org)**
 
 ---
 
