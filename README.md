@@ -119,10 +119,6 @@ The PoWV Protocol architecture and its operational verticals are strategically r
 
 The market valuation of an infrastructure framework like the PoWV Protocol is determined by enterprise adoption, scalability, and integration architecture within the Real-World Asset (RWA) and supply chain ecosystems. Based on leading institutional benchmarks and global decentralized networks, the strategic valuation trajectory models after established market pioneers:
 
-<div align="center">
-  <img src="valuation-chart.svg" alt="PoWV Protocol Market Valuation Projection" width="100%" style="max-width: 800px; border-radius: 8px; border: 1px solid #374151;" />
-</div>
-
 
 ### 📈 The Capture Model
 ...
