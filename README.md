@@ -112,16 +112,13 @@ The PoWV Protocol architecture and its operational verticals are strategically r
 * **Future Inflows & Off-Take Contracts:** Structured through pure software-licensing frameworks, recurring service fees, and algorithmic transaction tolls, heavily insulated from heavy asset liability.
 
 
-## 📊  Market Valuation & Institutional Comparables
+## 📊 Market Valuation & Institutional Comparables
 
 The market valuation of an infrastructure framework like the PoWV Protocol is determined by enterprise adoption, scalability, and integration architecture within the Real-World Asset (RWA) and supply chain ecosystems. Based on leading institutional benchmarks and global decentralized networks, the strategic valuation trajectory models after established market pioneers:
 
-| Infrastructure Platform | Primary Sector | Enterprise Valuation / Market Cap |
-| :--- | :--- | :--- |
-| **IBM Food Trust** | Food Traceability & Logistics | $1.0B – $2.0B *(Estimated)* |
-| **VeChain** | Supply Chain & Enterprise IoT | $1.5B – $2.0B *(Market Cap)* |
-| **Chainlink** | Decentralized Data Oracles | $6.0B – $8.0B *(Market Cap)* |
-| **PoWV Protocol™** | Cyber-Physical Verification & RWA | **Targeting Multi-Billion Potential** |
+<div align="center">
+  <img src="valuation-chart.svg" alt="PoWV Protocol Market Valuation Projection" width="100%" style="max-width: 800px; border-radius: 8px; border: 1px solid #374151;" />
+</div>
 
 
 ### 📈 The Capture Model
