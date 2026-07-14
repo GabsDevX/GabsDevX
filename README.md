@@ -89,16 +89,15 @@ The **Proof of Waste Value (PoWV) Protocol** is a foundational sovereign infrast
 │
 ▼ (Legacy Telemetry Capture)
 ┌───────────────────────────────────────┐
-│  PoWV Edge Oracle Module (STM32/HSM)  │ ◄── [ Hardware Cryptographic Keys ]
+│  PoWV Edge Oracle Module (HSM)  │ ◄── [ Hardware Cryptographic Keys ]
 └──────────────────┬────────────────────┘
 │  (Inline Zero-Knowledge Telemetry Packing)
 ▼
 [ Unified Immutable Ledger Admissibility Layer ]
 ---
-
 #### 🛠️ Core Infrastructure Engine Properties
 
-```yaml
+``yaml
 ZERO_INFRA_DISRUPTION:
   Mechanism: "Non-intrusive sensorization over existing physical ground scales."
   Impact: "Retrofit million-dollar legacy assets into non-repudiable nodes."
@@ -114,70 +113,68 @@ CHOKEPOINT_DRIVEN_CAPTURE:
   Strategy: "High-volume bottleneck telemetry auditing."
   Metrics: "Capturing and verifying massive slices of heavy-freight GDP flows."
 
-## 🗂️  Operational Verticals & Industrial Umbrella
+  ## 🗂️ Operational Verticals & DePIN Umbrella
 
-The PoWV Protocol platform operates as an umbrella infrastructure deploying secure, edge-computed data packages across key strategic verticals:
+The PoWV Protocol operates as a sovereign infrastructure layer, deploying secure, edge-computed data packages across strategic high-value verticals:
 
-* 🚂 **PoWV Rail Oracle:** Transforming heavy rail commodity weighing into tamper-proof, non-repudiable legal evidence to eliminate logistics fraud.
+| Sector / Node | Cyber-Physical Execution | Payload & Cryptographic Outcome |
+| :--- | :--- | :--- |
+| 🚂 **Heavy Rail Oracle** | `Dynamic Mass Telemetry` & continuous weighing | Instant fraud elimination & judicial evidence |
+| 🚢 **Maritime Logistics** | `Spatial-Temporal` validation during handovers | Bulk load integrity & multi-modal custody proof |
+| 🌲 **Industrial Forestry** | `Cryptographic Proof` of authentic physical mass | Certified chain-of-custody for raw materials |
+| 🌾 **Agri-Commodities** | `Edge Sensorization` at automated terminals | Smart contract triggers & automated settlements |
+| ⚙️ **Deep Extraction** | `LEO Satellite` payload compression (`<100 bytes`) | Resilient edge-to-ledger data routing (No 4G needed) |
 
-* 🚢 **Maritime & Port Logistics:** Securing bulk load integrity and verifying spatial-temporal metrics during multimodal handovers.
+💼 Institutional Governance & Deployment Roadmap
+Capital deployment and asset delivery follow a strict, deterministic, multi-phased governance roadmap to ensure systematic risk mitigation for institutional partners:
 
-* 🌲 **Industrial Forestry & Pulp:** Automated cryptographic proof of chain-of-custody and authentic mass for global raw materials.
+[ ██████████ ] PHASE 01 // PROOF OF CONCEPT (PoC) — 🟢 COMPLETED
 
-* 🌾 **Agricultural Commodities:** Instant financial settlement triggers tied to verified physical inflows at automated distribution terminals.
+Validation of non-invasive physical signal capture, edge cryptography, and satellite payload compression under real-world isolation.
 
-* ⚙️ **DePIN & Edge Computing:** Deploying ultra-compact payloads (<100 bytes) via satellite to bypass terrestrial 4G bottlenecks in deep extraction sites.
+[ █████░░░░░ ] PHASE 02 // MINIMUM VIABLE PRODUCT (MVP) — 🟡 ONGOING
 
----
+Hardening hardware-in-the-loop firmware and verifying initial data ledger anchoring in high-throughput environments.
 
-## 💼  Institutional Governance & Capital Deployment Roadmap
+[ ░░░░░░░░░░ ] PHASE 03 // INDUSTRIAL PILOT — ⚪ UPCOMING
 
-The PoWV Protocol architecture and its operational verticals are strategically ring-fenced under our intellectual property holding company. To ensure systematic risk mitigation and deterministic value scaling for institutional partners, our capital deployment and asset delivery follow a strict, multi-phased governance roadmap:
+Execution alongside strategic logistics partners to secure deep-freight corridors and capture multi-tonnage infrastructure data flows.
 
-* **Proof of Concept (PoC):** Completed. Validation of non-invasive physical signal capture, edge cryptography, and satellite payload compression under real-world isolation.
+[ ░░░░░░░░░░ ] PHASE 04 // INFLOWS & OFF-TAKE — 🔒 LOCKED
 
-* **Minimum Viable Product (MVP):** Ongoing deployment. Hardening the hardware-in-the-loop firmware and verifying the initial data ledger anchoring in high-throughput environments.
+Pure software-licensing frameworks, recurring service fees, and algorithmic transaction tolls insulated from heavy asset liabilities.
 
-* **Industrial Pilot Phase:** Upcoming execution alongside strategic logistics partners to secure deep-freight corridors and capture multi-tonnage infrastructure data flows.
+📊 Market Valuation & The Capture Model
+The strategic valuation trajectory of PoWV Protocol models after established decentralized market pioneers, driven by absolute enterprise adoption and RWA integration.
 
-* **Future Inflows & Off-Take Contracts:** Structured through pure software-licensing frameworks, recurring service fees, and algorithmic transaction tolls, heavily insulated from heavy asset liability.
-  
+📈 Addressable Value Pipeline
+The global supply chain and ESG compliance markets handle hundreds of trillions in physical cargo.
+
+Total Addressable Market (TAM): The global supply chain software market alone is valued at >$10 Trillion.
+
+Fractional Capture: Auditing a mere 0.1% of data verification flows within these corridors represents a potential addressable asset pipeline of $10 Billion.
+
+The Value Ceiling: Unlike pure software alternatives, PoWV operates as the "digital anchor of physical truth", driving exponential perceived value in high-liability industrial environments.
+
+🚀 Investor & Private Equity Inquiries
+We are selectively opening discussions for strategic ecosystem grants and institutional Pre-Seed funding rounds with qualified Venture Capital, Private Equity firms, and infrastructure syndicates.
+
+[!WARNING]
+SECURE DATA ROOM & NDA REQUIREMENTS
+All forward-looking financials, architecture blueprints, pilot performance data, and proprietary commercial contracts are strictly protected under Mutual Non-Disclosure Agreements (MNDA).
+
+Executive Gateway:
+
+✉️ Contact: gabriel@powvprotocol.com
+
+⬛ Core Infrastructure Node: github.com/powvprotocol-org
+
+<br><br>
 
 <div align="center">
-  <img src="valuation-chart.svg" alt="PoWV Protocol Market Valuation Projection" width="100%" style="max-width: 800px; border-radius: 8px; border: 1px solid #374151;" />
+  <sub><i>"Tracks exist. Scales exist. Satellites exist. What was missing was ADMISSIBILITY."</i></sub>
+  <br><br>
+  <code>© 2026 PoWV Protocol™ // Gabriel de Almeida Santos Silva. All Rights Reserved.</code>
+  <br>
+  <sub>Sovereign technology fully enforced under international TRIPS/WIPO treaties and Brazilian Law 9.609/98.</sub>
 </div>
-
-## 📊 Market Valuation & Institutional Comparables
-
-The market valuation of an infrastructure framework like the PoWV Protocol is determined by enterprise adoption, scalability, and integration architecture within the Real-World Asset (RWA) and supply chain ecosystems. Based on leading institutional benchmarks and global decentralized networks, the strategic valuation trajectory models after established market pioneers:
-
-
-### 📈 The Capture Model
-
-The global supply chain, parametric insurance, and ESG compliance markets collectively handle hundreds of trillions of dollars in physical cargo. 
-
-* **Market Fraction Capture:** The global supply chain software market alone is valued at over **$10 Trillion**. Capturing a mere fraction (0.1%) of data verification flows within these corridors represents a potential addressable value asset pipeline of **$10 Billion**.
-
-* **The Value Ceiling:** Unlike pure software alternatives, PoWV operates as the *"digital anchor of physical truth"*, significantly driving up perceived value across high-risk, high-liability industrial environments.
-
-
-### 🚀 Investor & Private Equity Inquiries
-We are selectively opening discussions for strategic fomento, ecosystem development grants, and institutional **Pre-Seed funding rounds** with qualified Venture Capital, Private Equity firms, and infrastructure syndicates. 
-
-> 🔐 *All forward-looking financials, architecture blueprints, pilot performance data, and proprietary commercial contracts are strictly protected under Mutual Non-Disclosure Agreements (MNDA).*
-
-For executive inquiries, pitch deck access, or to schedule a formal evaluation briefing under NDA, contact the Lead Architect directly via email or audit the enterprise flagship ledger architecture on our official organization repository:
-
-* **Executive Contact:** **[gabriel@powvprotocol.com](mailto:gabriel@powvprotocol.com)**
-
-* **Core Infrastructure Node:** **[github.com/powvprotocol-org](https://github.com/powvprotocol-org)**
-
----
-
-<br>
-
-<p align="center">
-  <i>"Tracks exist. Scales exist. Satellites exist. What was missing was ADMISSIBILITY."</i><br>
-    
-  <b>© 2026 PoWV Protocol™ // Gabriel de Almeida Santos Silva. All Rights Reserved.</b>
-</p>
