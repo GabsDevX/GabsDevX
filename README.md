@@ -15,40 +15,42 @@
 </p>
 
 ---
+
 <div align="center">
   <h2>🌐 Official Gateway &amp; Cyber-Physical Link Hub</h2>
   <i>Connect to the PoWV ecosystem and track our infrastructure's evolution.</i>
   <br><br>
-  <a href="https://www.powvprotocol.com" target="_blank"><img src="https://img.shields.io/badge/POWV_OFFICIAL_SITE-10B981?style=for-the-badge&logo=google-chrome&logoColor=white&labelColor=0d1117" alt="Official Site" /></a>&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://powvprotocol.substack.com/" target="_blank"><img src="https://img.shields.io/badge/SUBSTACK_RESEARCH-FF6600?style=for-the-badge&logo=substack&logoColor=white&labelColor=0d1117" alt="Substack" /></a>
+  <a href="https://www.powvprotocol.com" target="_blank"><img src="https://img.shields.io/badge/POWV_OFFICIAL_SITE-10B981?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Official Site" /></a>&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://powvprotocol.substack.com/" target="_blank"><img src="https://img.shields.io/badge/SUBSTACK_RESEARCH-FF6600?style=for-the-badge&logo=substack&logoColor=white" alt="Substack" /></a>
   <br>
   <sub>Oracles, deep-tech research, institutional theses, and hardware-level validation.</sub>
   <br><br>
-  <a href="https://www.linkedin.com/company/powv-protocol/" target="_blank"><img src="https://img.shields.io/badge/POWV_PROTOCOL-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0d1117" alt="Corporate LinkedIn" /></a>&nbsp;&nbsp;<a href="https://www.linkedin.com/in/gabriel-protocolpowv/" target="_blank"><img src="https://img.shields.io/badge/GABRIEL_ALMEIDA-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0d1117" alt="Personal LinkedIn" /></a>&nbsp;&nbsp;<a href="https://www.youtube.com/@GabrielProtocolPowv" target="_blank"><img src="https://img.shields.io/badge/YOUTUBE-FF0000?style=for-the-badge&logo=youtube&logoColor=white&labelColor=0d1117" alt="YouTube" /></a>
+  <a href="https://www.linkedin.com/company/powv-protocol/" target="_blank"><img src="https://img.shields.io/badge/POWV_PROTOCOL-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Corporate LinkedIn" /></a>&nbsp;&nbsp;<a href="https://www.linkedin.com/in/gabriel-protocolpowv/" target="_blank"><img src="https://img.shields.io/badge/GABRIEL_ALMEIDA-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Personal LinkedIn" /></a>&nbsp;&nbsp;<a href="https://www.youtube.com/@GabrielProtocolPowv" target="_blank"><img src="https://img.shields.io/badge/YOUTUBE-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" /></a>
   <br><br>
   <h3>⬛ Code Architecture &amp; Repositories</h3>
-  <a href="https://github.com/powvprotocol-org" target="_blank"><img src="https://img.shields.io/badge/POWV_PROTOCOL_ORG-10B981?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117" alt="Org" /></a>&nbsp;&nbsp;<a href="https://github.com/GabsDevX" target="_blank"><img src="https://img.shields.io/badge/GABSDEVX_PORTFOLIO-333333?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117" alt="Dev" /></a>
+  <a href="https://github.com/powvprotocol-org" target="_blank"><img src="https://img.shields.io/badge/POWV_PROTOCOL_ORG-10B981?style=for-the-badge&logo=github&logoColor=white" alt="Org" /></a>&nbsp;&nbsp;<a href="https://github.com/GabsDevX" target="_blank"><img src="https://img.shields.io/badge/GABSDEVX_PORTFOLIO-333333?style=for-the-badge&logo=github&logoColor=white" alt="Dev" /></a>
 </div>
+
+---
 
 ## 🏛️  The Architect: Gabriel de Almeida
 
 I am a Cyber-Physical Systems (CPS) Architect and Full-Stack Infrastructure Engineer specializing in hardware-rooted security, decentralized data consensus, and trust enforcement for heavy industry supply chains. My work converges physical reality with irreversible digital hylomorphism, transforming raw physical metrics into globally admitted economic evidence.
 
+## 🏢 Intellectual Property & Legal Holding
 
-## 🏢  The Intellectual Property Holding
+> [!IMPORTANT]
+> **LEGAL NOTICE & CORPORATE SHIELD**
+> All research, proprietary edge architectures, trade secrets, and software structures developed under our leadership are strictly centralized, protected, and legally governed under a dedicated corporate IP shield.
 
-All research, proprietary edge architectures, trade secrets, and software structures developed under my leadership are strictly centralized and legally protected under a dedicated corporate IP shield, strictly governed by Brazilian and International Intellectual Property Laws. 
-
-This infrastructure is fully enforced under **Brazilian Software Law (Lei nº 9.609/1998)**, **Brazilian Industrial Property Law (Lei nº 9.279/1996)**, and **Law nº 14.063/2020** regarding cryptographic electronic signatures, alongside international protections mandated by the **TRIPS Agreement (Trade-Related Aspects of Intellectual Property Rights)** and the **WIPO (World Intellectual Property Organization)** framework.
+This infrastructure is fully enforced under **Brazilian Software Law (Lei nº 9.609/1998)**, **Brazilian Industrial Property Law (Lei nº 9.279/1996)**, and **Law nº 14.063/2020** (cryptographic electronic signatures), alongside international protections mandated by the **TRIPS Agreement (Trade-Related Aspects of Intellectual Property Rights)** and the **WIPO (World Intellectual Property Organization)** framework.
 
 | Entity Attribute | Corporate & Legal Registry |
 | :--- | :--- |
-| **Corporate Name** | 58.046.660 Gabriel de Almeida Santos Silva |
-| **National Registry (CNPJ)** | 58.046.660/0001-93 |
-| **Jurisdiction** | Brazil (BR) // Sovereign International Treaties |
-| **Legal Enforcement** | Lei 9.609/98 (Software) // Lei 9.279/96 (Industrial Property) // TRIPS Agreement |
-| **IP Governance Model** | Tech Holding for Software Licensing & Metrological Oracle Models |
-
----
+| **Corporate Name** | `58.046.660 Gabriel de Almeida Santos Silva` |
+| **National Registry** | `CNPJ: 58.046.660/0001-93` |
+| **Jurisdiction** | `Brazil (BR) // Sovereign International Treaties` |
+| **Legal Enforcement** | `Lei 9.609/98 (Software)` // `Lei 9.279/96` // `TRIPS Agreement` |
+| **IP Governance Model** | **Tech Holding** for Software Licensing & Metrological Oracle Models |
 
 ---
 
