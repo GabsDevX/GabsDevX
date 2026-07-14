@@ -16,40 +16,50 @@
 
 ---
 
-## 🌐 Official Gateway & Cyber-Physical Link Hub
 <div align="center">
-  <p><i>Conecte-se ao ecossistema PoWV e acompanhe a evolução da infraestrutura ciberfísica.</i></p>
+  <h2>🌐 Gateway Oficial & Hub Ciberfísico</h2>
+  <p><i>Conecte-se ao ecossistema PoWV e acompanhe a evolução da infraestrutura.</i></p>
   
   <br>
 
   <a href="https://www.powvprotocol.com" target="_blank">
-    <img src="https://img.shields.io/badge/SITE_OFICIAL-Conheça_o_ecossistema_PoWV-000000?style=for-the-badge&logo=google-chrome&logoColor=10B981&borderColor=10B981" alt="Site Oficial" />
+    <img src="https://img.shields.io/badge/SITE_OFICIAL_POWV-10B981?style=for-the-badge&logo=google-chrome&logoColor=white&labelColor=050505" alt="Site Oficial" />
   </a>
+  <br>
+  <sub style="color: #9CA3AF;">Conheça o ecossistema de oráculos ciberfísicos</sub>
+
+  <br><br>
+
   <a href="https://powvprotocol.substack.com/" target="_blank">
-    <img src="https://img.shields.io/badge/SUBSTACK-Artigos_e_Teses_RWA-000000?style=for-the-badge&logo=substack&logoColor=FF6600&borderColor=333333" alt="Substack" />
+    <img src="https://img.shields.io/badge/SUBSTACK_RESEARCH-FF6600?style=for-the-badge&logo=substack&logoColor=white&labelColor=050505" alt="Substack" />
   </a>
+  <br>
+  <sub style="color: #9CA3AF;">Artigos aprofundados, teses e newsletters sobre RWA</sub>
 
-  <br><br>
+  <br><br><br>
 
-  <a href="https://www.linkedin.com/in/gabriel-protocolpowv/" target="_blank">
-    <img src="https://img.shields.io/badge/GABRIEL_ALMEIDA-Conexão_Profissional-000000?style=for-the-badge&logo=linkedin&logoColor=0A66C2&borderColor=333333" alt="LinkedIn Pessoal" />
-  </a>
   <a href="https://www.linkedin.com/company/powv-protocol/?viewAsMember=true" target="_blank">
-    <img src="https://img.shields.io/badge/POWV_PROTOCOL-Atualizações_Institucionais-000000?style=for-the-badge&logo=linkedin&logoColor=0A66C2&borderColor=333333" alt="LinkedIn Corporativo" />
+    <img src="https://img.shields.io/badge/POWV_PROTOCOL-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn Corporativo" />
   </a>
+  &nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/gabriel-protocolpowv/" target="_blank">
+    <img src="https://img.shields.io/badge/GABRIEL_ALMEIDA-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn Pessoal" />
+  </a>
+  &nbsp;&nbsp;
   <a href="https://www.youtube.com/@GabrielProtocolPowv" target="_blank">
-    <img src="https://img.shields.io/badge/YOUTUBE-Demos_de_Hardware-000000?style=for-the-badge&logo=youtube&logoColor=FF0000&borderColor=333333" alt="YouTube" />
+    <img src="https://img.shields.io/badge/CANAL_YOUTUBE-FF0000?style=flat-square&logo=youtube&logoColor=white" alt="YouTube" />
   </a>
 
-  <br><br>
+  <br><br><br>
 
   <h3>⬛ Arquitetura de Código & Repositórios</h3>
   
   <a href="https://github.com/powvprotocol-org" target="_blank">
-    <img src="https://img.shields.io/badge/ORG_POWV-Repositórios_e_Firmware-000000?style=for-the-badge&logo=github&logoColor=white&borderColor=10B981" alt="Org" />
+    <img src="https://img.shields.io/badge/ORG_POWV_PROTOCOL-10B981?style=for-the-badge&logo=github&logoColor=white&labelColor=050505" alt="Org" />
   </a>
+  &nbsp;&nbsp;
   <a href="https://github.com/GabsDevX" target="_blank">
-    <img src="https://img.shields.io/badge/GABSDEVX-Portfólio_Pessoal-000000?style=for-the-badge&logo=github&logoColor=gray&borderColor=333333" alt="Dev" />
+    <img src="https://img.shields.io/badge/GABSDEVX_PORTFOLIO-333333?style=for-the-badge&logo=github&logoColor=white&labelColor=050505" alt="Dev" />
   </a>
 
 </div>
