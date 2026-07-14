@@ -93,6 +93,7 @@ The **Proof of Waste Value (PoWV) Protocol** is a foundational sovereign infrast
 > Operating as an inline cryptographic interceptor over the physical flow of global commodities. We do not disrupt legacy assets; we cryptographically sign their state telemetry.
 
 ============================================================
+
 ● CYBER-PHYSICAL DATA FLOW // IMMUTABLE INGESTION
 
   [1] PHYSICAL SIGNAL SOURCE
