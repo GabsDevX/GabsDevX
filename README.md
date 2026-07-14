@@ -103,23 +103,29 @@ The **Proof of Waste Value (PoWV) Protocol** is a foundational sovereign infrast
 ---
 #### 🛠️ Core Infrastructure Engine Properties
 
-# PoWV Protocol Core Engine Properties
-$ powv-core --init --verbose
+// POWV PROTOCOL // CORE ENGINE INITIALIZATION
+// ADMISSIBILITY LAYER CONTRACT SECURED: [0x71C...3F9B]
 
-● [ENGINE] ZERO_INFRA_DISRUPTION
-  ├── Mechanism : Non-intrusive sensorization over existing physical ground scales.
-  ├── Impact    : Retrofits million-dollar legacy assets into non-repudiable nodes.
-  └── Execution : Zero civil works required. Instant cryptographic validation.
+#[powv::engine(core)]
+struct ZeroInfraDisruption {
+    mechanism : "Non-intrusive edge-sensorization over existing ground scales",
+    impact    : "Retrofit million-dollar legacy assets into cryptographic nodes",
+    execution : "Zero civil works // Real-time metrological validation"
+}
 
-● [ENGINE] HIGH_MARGIN_IP_ENGINE
-  ├── Model     : Pure software-licensing & secure metrological oracle verification fees.
-  ├── Security  : Completely insulated from heavy physical asset operations/liabilities.
-  └── Arch      : IP-shielded holding executing high-frequency decentralized audits.
+#[powv::engine(core)]
+struct HighMarginIPEngine {
+    model     : "B2B software-licensing & recurring oracle verification fees",
+    security  : "100% insulated from physical asset operations and liabilities",
+    governance: "IP-shielded holding executing high-frequency telemetry audits"
+}
 
-● [ENGINE] CHOKEPOINT_DRIVEN_CAPTURE
-  ├── Target    : Critical logistics corridors, border handovers, and bulk maritime ports.
-  ├── Strategy  : High-volume bottleneck telemetry auditing.
-  └── Metrics   : Capturing and verifying massive slices of heavy-freight GDP flows.
+#[powv::engine(core)]
+struct ChokepointDrivenCapture {
+    target    : "Strategic logistics corridors, border handovers & bulk ports",
+    strategy  : "High-volume bottleneck telemetry auditing",
+    metrics   : "Securing and verifying major slices of heavy-freight GDP"
+}
 
   ## 🗂️ Operational Verticals & DePIN Umbrella
 
