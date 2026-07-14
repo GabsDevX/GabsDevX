@@ -101,9 +101,8 @@ The **Proof of Waste Value (PoWV) Protocol** is a foundational sovereign infrast
 ▼
 [ Unified Immutable Ledger Admissibility Layer ]
 ---
-============================================================
 ● POWV CORE ENGINE // CONSENSUS INITIALIZATION
-============================================================
+---
 
 + [STAGE 01] ── ZERO INFRA DISRUPTION
   │
@@ -123,9 +122,10 @@ The **Proof of Waste Value (PoWV) Protocol** is a foundational sovereign infrast
   ├──► [STRAT]  High-Volume Bottleneck Audits
   └──► [METRIC] Securing Slices of Global GDP
 
-============================================================
- STATUS: ACTIVE // ENFORCING MATHEMATICAL TRUTH AT THE EDGE
-============================================================
+---
+status: active // enforcing mathematical truth at the edge
+---
+
   ## 🗂️ Operational Verticals & DePIN Umbrella
 
 The PoWV Protocol operates as a sovereign infrastructure layer, deploying secure, edge-computed data packages across strategic high-value verticals:
