@@ -121,7 +121,6 @@ The market valuation of an infrastructure framework like the PoWV Protocol is de
 
 
 ### 📈 The Capture Model
-...
 
 The global supply chain, parametric insurance, and ESG compliance markets collectively handle hundreds of trillions of dollars in physical cargo. 
 
