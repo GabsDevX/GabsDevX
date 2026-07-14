@@ -42,7 +42,8 @@ I am a Cyber-Physical Systems (CPS) Architect and Full-Stack Infrastructure Engi
 > **LEGAL NOTICE & CORPORATE SHIELD**
 > All research, proprietary edge architectures, trade secrets, and software structures developed under our leadership are strictly centralized, protected, and legally governed under a dedicated corporate IP shield.
 
-# Sovereign Legal Enforcement Registers
+### 🏢 Sovereign Legal Enforcement Registers
+
 [BR_JURISDICTION]     ├── SOFTWARE_LAW      : "Lei nº 9.609/1998"
                       ├── PATENT_LAW        : "Lei nº 9.279/1996"
                       └── CRYPTO_SIGNATURE  : "Lei nº 14.063/2020"
@@ -91,16 +92,24 @@ The **Proof of Waste Value (PoWV) Protocol** is a foundational sovereign infrast
 > **THE "TRUST TOLL" RETROFIT ENGINE**
 > Operating as an inline cryptographic interceptor over the physical flow of global commodities. We do not disrupt legacy assets; we cryptographically sign their state telemetry.
 
-[ Physical Signal Source ]
-│
-▼ (Legacy Telemetry Capture)
-┌───────────────────────────────────────┐
-│  PoWV Edge Oracle Module (HSM)  │ ◄── [ Hardware Cryptographic Keys ]
-└──────────────────┬────────────────────┘
-│  (Inline Zero-Knowledge Telemetry Packing)
-▼
-[ Unified Immutable Ledger Admissibility Layer ]
----
+============================================================
+● CYBER-PHYSICAL DATA FLOW // IMMUTABLE INGESTION
+
+  [1] PHYSICAL SIGNAL SOURCE
+      │
+      ▼ (Legacy Telemetry Capture)
+  
++ [2] PoWV EDGE ORACLE MODULE (HSM)
+  │   └───◄ Enforced by Hardware Keys
+  │
+  ▼ (Inline Zero-Knowledge Telemetry Packing)
+  
++ [3] UNIFIED IMMUTABLE LEDGER
+      └───◄ Admissibility Layer Anchored
+
+ status: active // enforcing mathematical truth at the edge
+============================================================
+
 ● POWV CORE ENGINE // CONSENSUS INITIALIZATION
 ---
 
