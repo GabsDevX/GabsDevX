@@ -107,8 +107,6 @@ The **Proof of Waste Value (PoWV) Protocol** is a foundational sovereign infrast
 + [3] UNIFIED IMMUTABLE LEDGER
       └───◄ Admissibility Layer Anchored
 
- status: active // enforcing mathematical truth at the edge
-============================================================
 
 ● POWV CORE ENGINE // CONSENSUS INITIALIZATION
 ---
@@ -132,7 +130,7 @@ The **Proof of Waste Value (PoWV) Protocol** is a foundational sovereign infrast
   └──► [METRIC] Securing Slices of Global GDP
 
 ---
-status: active // enforcing mathematical truth at the edge
+Status: active // enforcing mathematical truth at the edge
 ---
 
   ## 🗂️ Operational Verticals & DePIN Umbrella
