@@ -19,25 +19,19 @@
 <div align="center">
   <h2>🌐 Gateway Oficial & Hub Ciberfísico</h2>
   <p><i>Conecte-se ao ecossistema PoWV e acompanhe a evolução da infraestrutura.</i></p>
-  
   <br>
-
   <a href="https://www.powvprotocol.com" target="_blank">
     <img src="https://img.shields.io/badge/SITE_OFICIAL_POWV-10B981?style=for-the-badge&logo=google-chrome&logoColor=white&labelColor=050505" alt="Site Oficial" />
   </a>
   <br>
   <sub style="color: #9CA3AF;">Conheça o ecossistema de oráculos ciberfísicos</sub>
-
   <br><br>
-
   <a href="https://powvprotocol.substack.com/" target="_blank">
     <img src="https://img.shields.io/badge/SUBSTACK_RESEARCH-FF6600?style=for-the-badge&logo=substack&logoColor=white&labelColor=050505" alt="Substack" />
   </a>
   <br>
   <sub style="color: #9CA3AF;">Artigos aprofundados, teses e newsletters sobre RWA</sub>
-
   <br><br><br>
-
   <a href="https://www.linkedin.com/company/powv-protocol/?viewAsMember=true" target="_blank">
     <img src="https://img.shields.io/badge/POWV_PROTOCOL-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn Corporativo" />
   </a>
@@ -49,11 +43,8 @@
   <a href="https://www.youtube.com/@GabrielProtocolPowv" target="_blank">
     <img src="https://img.shields.io/badge/CANAL_YOUTUBE-FF0000?style=flat-square&logo=youtube&logoColor=white" alt="YouTube" />
   </a>
-
   <br><br><br>
-
   <h3>⬛ Arquitetura de Código & Repositórios</h3>
-  
   <a href="https://github.com/powvprotocol-org" target="_blank">
     <img src="https://img.shields.io/badge/ORG_POWV_PROTOCOL-10B981?style=for-the-badge&logo=github&logoColor=white&labelColor=050505" alt="Org" />
   </a>
