@@ -28,13 +28,11 @@
   <h3>⬛ Code Architecture &amp; Repositories</h3>
   <a href="https://github.com/powvprotocol-org" target="_blank"><img src="https://img.shields.io/badge/POWV_PROTOCOL_ORG-10B981?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117" alt="Org" /></a>&nbsp;&nbsp;<a href="https://github.com/GabsDevX" target="_blank"><img src="https://img.shields.io/badge/GABSDEVX_PORTFOLIO-333333?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117" alt="Dev" /></a>
 </div>
----
 
 ## 🏛️  The Architect: Gabriel de Almeida
 
 I am a Cyber-Physical Systems (CPS) Architect and Full-Stack Infrastructure Engineer specializing in hardware-rooted security, decentralized data consensus, and trust enforcement for heavy industry supply chains. My work converges physical reality with irreversible digital hylomorphism, transforming raw physical metrics into globally admitted economic evidence.
 
----
 
 ## 🏢  The Intellectual Property Holding
 
