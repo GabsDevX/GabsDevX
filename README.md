@@ -42,7 +42,13 @@ I am a Cyber-Physical Systems (CPS) Architect and Full-Stack Infrastructure Engi
 > **LEGAL NOTICE & CORPORATE SHIELD**
 > All research, proprietary edge architectures, trade secrets, and software structures developed under our leadership are strictly centralized, protected, and legally governed under a dedicated corporate IP shield.
 
-This infrastructure is fully enforced under **Brazilian Software Law (Lei nº 9.609/1998)**, **Brazilian Industrial Property Law (Lei nº 9.279/1996)**, and **Law nº 14.063/2020** (cryptographic electronic signatures), alongside international protections mandated by the **TRIPS Agreement (Trade-Related Aspects of Intellectual Property Rights)** and the **WIPO (World Intellectual Property Organization)** framework.
+# Sovereign Legal Enforcement Registers
+[BR_JURISDICTION]     ├── SOFTWARE_LAW      : "Lei nº 9.609/1998"
+                      ├── PATENT_LAW        : "Lei nº 9.279/1996"
+                      └── CRYPTO_SIGNATURE  : "Lei nº 14.063/2020"
+
+[GLOBAL_TREATIES]     ├── INTELLECTUAL_PROP : "TRIPS Agreement"
+                      └── GOVERNANCE        : "WIPO Framework"
 
 | Entity Attribute | Corporate & Legal Registry |
 | :--- | :--- |
@@ -145,14 +151,14 @@ Execution alongside strategic logistics partners to secure deep-freight corridor
 [ ░░░░░░░░░░ ] PHASE 04 // INFLOWS & OFF-TAKE — 🔒 LOCKED
 
 ---
-
-## 📊 Market Projections & Financial Architecture
-Executive Gateway:
-
-[MARKET DATABASE: DEPIN // RWA ORACLE]
-TOTAL ADDRESSABLE MARKET (TAM) : $10,000,000,000,000  ($10T - Global Supply Chain Software)
-TARGET CAPTURE FRACTION        : 0.1% of verified data corridors
-ADDRESSABLE PIPELINE VALUE     : $10,000,000,000      ($10B - Secure Ledger Anchoring)
+## 📊 Financial Architecture & Market Capture
+[SYSTEM REGISTER: TAM & PIPELINE EVALUATION]
+├─ Global Supply Chain Software (TAM) : $10,000,000,000,000 ($10T)
+├─ Target Capture Fraction            : 0.1%
+└─ Addressable Pipeline Value         : $10,000,000,000 ($10B)
+<div align="center">
+  <img src="valuation-chart.svg" alt="PoWV Protocol Market Valuation Projection" width="100%" style="max-width: 800px; border-radius: 8px; border: 1px solid #374151;" />
+</div>
 
 <div align="center">
   <img src="valuation-chart.svg" alt="PoWV Protocol Market Valuation Projection" width="100%" style="max-width: 800px; border-radius: 8px; border: 1px solid #374151;" />
