@@ -111,6 +111,12 @@ The PoWV Protocol architecture and its operational verticals are strategically r
 
 * **Future Inflows & Off-Take Contracts:** Structured through pure software-licensing frameworks, recurring service fees, and algorithmic transaction tolls, heavily insulated from heavy asset liability.
 
+<div align="center">
+  <img src="https://raw.githubusercontent.com/powvprotocol-org/SEU-REPOSITORIO/main/valuation-chart.svg" alt="PoWV Protocol Market Valuation Projection" width="100%" style="max-width: 800px; border-radius: 8px; border: 1px solid #374151;" />
+</div>
+
+## 📊 Market Valuation & Institutional Comparables
+
 
 ## 📊 Market Valuation & Institutional Comparables
 
@@ -120,8 +126,8 @@ The market valuation of an infrastructure framework like the PoWV Protocol is de
   <img src="valuation-chart.svg" alt="PoWV Protocol Market Valuation Projection" width="100%" style="max-width: 800px; border-radius: 8px; border: 1px solid #374151;" />
 </div>
 
-
 ### 📈 The Capture Model
+...
 
 The global supply chain, parametric insurance, and ESG compliance markets collectively handle hundreds of trillions of dollars in physical cargo. 
 
