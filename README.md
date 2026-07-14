@@ -110,6 +110,7 @@ The PoWV Protocol architecture and its operational verticals are strategically r
 * **Industrial Pilot Phase:** Upcoming execution alongside strategic logistics partners to secure deep-freight corridors and capture multi-tonnage infrastructure data flows.
 
 * **Future Inflows & Off-Take Contracts:** Structured through pure software-licensing frameworks, recurring service fees, and algorithmic transaction tolls, heavily insulated from heavy asset liability.
+  
 
 <div align="center">
   <img src="valuation-chart.svg" alt="PoWV Protocol Market Valuation Projection" width="100%" style="max-width: 800px; border-radius: 8px; border: 1px solid #374151;" />
