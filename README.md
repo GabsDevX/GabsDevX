@@ -97,21 +97,23 @@ The **Proof of Waste Value (PoWV) Protocol** is a foundational sovereign infrast
 ---
 #### 🛠️ Core Infrastructure Engine Properties
 
-``yaml
-ZERO_INFRA_DISRUPTION:
-  Mechanism: "Non-intrusive sensorization over existing physical ground scales."
-  Impact: "Retrofit million-dollar legacy assets into non-repudiable nodes."
-  Execution: "Zero civil works required. Instant cryptographic validation."
+# PoWV Protocol Core Engine Properties
+$ powv-core --init --verbose
 
-HIGH_MARGIN_IP_ENGINE:
-  Model: "Pure software-licensing & secure metrological oracle verification fees."
-  Risk_Profile: "Completely insulated from heavy physical asset operations and liabilities."
-  Architecture: "IP-shielded holding executing high-frequency decentralized audits."
+● [ENGINE] ZERO_INFRA_DISRUPTION
+  ├── Mechanism : Non-intrusive sensorization over existing physical ground scales.
+  ├── Impact    : Retrofits million-dollar legacy assets into non-repudiable nodes.
+  └── Execution : Zero civil works required. Instant cryptographic validation.
 
-CHOKEPOINT_DRIVEN_CAPTURE:
-  Target: "Critical logistics corridors, border handovers, and bulk maritime ports."
-  Strategy: "High-volume bottleneck telemetry auditing."
-  Metrics: "Capturing and verifying massive slices of heavy-freight GDP flows."
+● [ENGINE] HIGH_MARGIN_IP_ENGINE
+  ├── Model     : Pure software-licensing & secure metrological oracle verification fees.
+  ├── Security  : Completely insulated from heavy physical asset operations/liabilities.
+  └── Arch      : IP-shielded holding executing high-frequency decentralized audits.
+
+● [ENGINE] CHOKEPOINT_DRIVEN_CAPTURE
+  ├── Target    : Critical logistics corridors, border handovers, and bulk maritime ports.
+  ├── Strategy  : High-volume bottleneck telemetry auditing.
+  └── Metrics   : Capturing and verifying massive slices of heavy-freight GDP flows.
 
   ## 🗂️ Operational Verticals & DePIN Umbrella
 
@@ -142,33 +144,42 @@ Execution alongside strategic logistics partners to secure deep-freight corridor
 
 [ ░░░░░░░░░░ ] PHASE 04 // INFLOWS & OFF-TAKE — 🔒 LOCKED
 
-Pure software-licensing frameworks, recurring service fees, and algorithmic transaction tolls insulated from heavy asset liabilities.
+---
 
-📊 Market Valuation & The Capture Model
-The strategic valuation trajectory of PoWV Protocol models after established decentralized market pioneers, driven by absolute enterprise adoption and RWA integration.
-
-📈 Addressable Value Pipeline
-The global supply chain and ESG compliance markets handle hundreds of trillions in physical cargo.
-
-Total Addressable Market (TAM): The global supply chain software market alone is valued at >$10 Trillion.
-
-Fractional Capture: Auditing a mere 0.1% of data verification flows within these corridors represents a potential addressable asset pipeline of $10 Billion.
-
-The Value Ceiling: Unlike pure software alternatives, PoWV operates as the "digital anchor of physical truth", driving exponential perceived value in high-liability industrial environments.
-
-🚀 Investor & Private Equity Inquiries
-We are selectively opening discussions for strategic ecosystem grants and institutional Pre-Seed funding rounds with qualified Venture Capital, Private Equity firms, and infrastructure syndicates.
-
-[!WARNING]
-SECURE DATA ROOM & NDA REQUIREMENTS
-All forward-looking financials, architecture blueprints, pilot performance data, and proprietary commercial contracts are strictly protected under Mutual Non-Disclosure Agreements (MNDA).
-
+## 📊 Market Projections & Financial Architecture
 Executive Gateway:
 
-✉️ Contact: gabriel@powvprotocol.com
+[MARKET DATABASE: DEPIN // RWA ORACLE]
+TOTAL ADDRESSABLE MARKET (TAM) : $10,000,000,000,000  ($10T - Global Supply Chain Software)
+TARGET CAPTURE FRACTION        : 0.1% of verified data corridors
+ADDRESSABLE PIPELINE VALUE     : $10,000,000,000      ($10B - Secure Ledger Anchoring)
 
-⬛ Core Infrastructure Node: github.com/powvprotocol-org
+<div align="center">
+  <img src="valuation-chart.svg" alt="PoWV Protocol Market Valuation Projection" width="100%" style="max-width: 800px; border-radius: 8px; border: 1px solid #374151;" />
+</div>
 
+### 📈 Economic Capture Model
+
+| Revenue Vector | Execution Architecture | Risk Mitigation |
+| :--- | :--- | :--- |
+| 🌐 **Software Licensing** | Pure B2B enterprise software deployment fees | Zero exposure to physical scale maintenance |
+| ⚡ **Transaction Tolls** | Micro-fees charged per verified cryptographic payload | High-margin utility loop driven by usage volume |
+| 🔒 **The Value Ceiling** | Premium pricing as the absolute *digital anchor of physical truth* | Insulated from industrial site operating liability |
+
+---
+
+## 🚀 Private Equity & Venture Capital Inquiries
+
+[SYSTEM STATUS: VENTURE GATEWAY OPEN]
+ROUND: Pre-Seed // Strategic Ecosystem Grants
+TARGETS: Infrastructure syndicates, Tech-focused VCs, and PE partners
+
+[!WARNING]
+> **SECURE DATA ROOM & NDA REQUIREMENTS**
+> All forward-looking financials, architecture blueprints, pilot performance metrics, and pending commercial contracts are strictly classified. Access to the virtual data room requires an executed Mutual Non-Disclosure Agreement (MNDA).
+
+* **Executive Contact:** [gabriel@powvprotocol.com](mailto:gabriel@powvprotocol.com)
+* **Core Infrastructure Node:** [github.com/powvprotocol-org](https://github.com/powvprotocol-org)
 <br><br>
 
 <div align="center">
