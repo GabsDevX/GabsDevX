@@ -101,30 +101,28 @@ The **Proof of Waste Value (PoWV) Protocol** is a foundational sovereign infrast
 ▼
 [ Unified Immutable Ledger Admissibility Layer ]
 ---
-#### 🛠️ Core Infrastructure Engine Properties
-
 // POWV PROTOCOL // CORE ENGINE INITIALIZATION
-// ADMISSIBILITY LAYER CONTRACT SECURED: [0x71C...3F9B]
+// ADMISSIBILITY SECURED: [0x71C...3F9B]
 
-#[powv::engine(core)]
-struct ZeroInfraDisruption {
-    mechanism : "Non-intrusive edge-sensorization over existing ground scales",
-    impact    : "Retrofit million-dollar legacy assets into cryptographic nodes",
-    execution : "Zero civil works // Real-time metrological validation"
-}
+{
+  "ZERO_INFRA_DISRUPTION": {
+    "mechanism" : "Non-intrusive edge-sensorization",
+    "hardware"  : "Over existing ground scales",
+    "impact"    : "Retrofits legacy assets",
+    "execution" : "Zero civil works // Real-time validation"
+  },
 
-#[powv::engine(core)]
-struct HighMarginIPEngine {
-    model     : "B2B software-licensing & recurring oracle verification fees",
-    security  : "100% insulated from physical asset operations and liabilities",
-    governance: "IP-shielded holding executing high-frequency telemetry audits"
-}
+  "HIGH_MARGIN_IP_ENGINE": {
+    "model"     : "B2B licensing & recurring fees",
+    "security"  : "Insulated from physical liabilities",
+    "governance": "High-frequency telemetry audits"
+  },
 
-#[powv::engine(core)]
-struct ChokepointDrivenCapture {
-    target    : "Strategic logistics corridors, border handovers & bulk ports",
-    strategy  : "High-volume bottleneck telemetry auditing",
-    metrics   : "Securing and verifying major slices of heavy-freight GDP"
+  "CHOKEPOINT_DRIVEN_CAPTURE": {
+    "target"    : "Logistics corridors & bulk ports",
+    "strategy"  : "High-volume bottleneck auditing",
+    "metrics"   : "Securing major slices of global GDP"
+  }
 }
 
   ## 🗂️ Operational Verticals & DePIN Umbrella
