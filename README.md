@@ -71,7 +71,7 @@ The **Proof of Waste Value (PoWV) Protocol** is a foundational sovereign infrast
 | Authority / Institution | Strategic Position & Market Outlook | Reference |
 | :--- | :--- | :--- |
 | **IMF & World Bank** | Heavily advocating for global institutional co-tokenization frameworks | [imf.org ↗](https://www.imf.org) |
-| **World Economic Forum** | Green Economy projected to surpass `~$7 Trillion` in annual value by `2030` | [weforum.org ↗](https://www.weforum.org) |
+| **World Economic Forum** | Green Economy projected to surpass `$7 Trillion` in annual value by `2030` | [weforum.org ↗](https://www.weforum.org) |
 | **Wall Street Titans** | BlackRock, JP Morgan, and Goldman Sachs driving an unstoppable multi-trillion shift | [Forbes Thesis ↗](https://www.forbes.com/sites/roomykhan/2023/06/29/asset-tokenization-a-trillion-dollar-market-opportunity-jp-morgan-blackrock-and-goldman-think-so/) |
 
 [ Physical Mass/Weight ] ───( Hardware-Rooted Cryptography )───► [ Immutable Ledger ]
@@ -79,21 +79,40 @@ The **Proof of Waste Value (PoWV) Protocol** is a foundational sovereign infrast
 * **Mathematical Certainty:** Mathematically locks physical weight to decentralized ledgers at the exact point of raw acquisition.
 * **Tamper-Proof Bridge:** Eliminates database manipulation, human bias, and paper-based workflows.
 ---
+### ⚡ The PoWV Resolution: Non-Invasive Admissibility
 
-#### ⚡ The PoWV Resolution
+> [!NOTE]
+> **THE "TRUST TOLL" RETROFIT ENGINE**
+> Operating as an inline cryptographic interceptor over the physical flow of global commodities. We do not disrupt legacy assets; we cryptographically sign their state telemetry.
 
-The **PoWV Protocol™** delivers the exact hardware-rooted admissibility layer required to protect, verify, and anchor these global asset pipelines:
-
-### ⚡ The Core Value Proposition: Non-Invasive Admissibility
-The protocol acts as a **Trust Toll (Pedágio de Confiança)** over the physical flow of global commodities.
-
-* **Zero Infrastructure Disruption:** We leverage existing physical ground scales and heavy infrastructure, implementing non-intrusive sensorization. *We do not replace million-dollar assets—we make them cryptographically non-repudiable without civil works.*
-
-* **High-Margin IP Operations:** Leveraging pure software licensing and cryptographic verification fees through a secure corporate framework, completely insulated from physical liabilities.
-
-* **Gargalo-Driven Capture:** Operating exclusively at major transport choke points, corridors, and maritime ports to capture and audit massive slices of heavy-freight GDP.
-
+[ Physical Signal Source ]
+│
+▼ (Legacy Telemetry Capture)
+┌───────────────────────────────────────┐
+│  PoWV Edge Oracle Module (STM32/HSM)  │ ◄── [ Hardware Cryptographic Keys ]
+└──────────────────┬────────────────────┘
+│  (Inline Zero-Knowledge Telemetry Packing)
+▼
+[ Unified Immutable Ledger Admissibility Layer ]
 ---
+
+#### 🛠️ Core Infrastructure Engine Properties
+
+```yaml
+ZERO_INFRA_DISRUPTION:
+  Mechanism: "Non-intrusive sensorization over existing physical ground scales."
+  Impact: "Retrofit million-dollar legacy assets into non-repudiable nodes."
+  Execution: "Zero civil works required. Instant cryptographic validation."
+
+HIGH_MARGIN_IP_ENGINE:
+  Model: "Pure software-licensing & secure metrological oracle verification fees."
+  Risk_Profile: "Completely insulated from heavy physical asset operations and liabilities."
+  Architecture: "IP-shielded holding executing high-frequency decentralized audits."
+
+CHOKEPOINT_DRIVEN_CAPTURE:
+  Target: "Critical logistics corridors, border handovers, and bulk maritime ports."
+  Strategy: "High-volume bottleneck telemetry auditing."
+  Metrics: "Capturing and verifying massive slices of heavy-freight GDP flows."
 
 ## 🗂️  Operational Verticals & Industrial Umbrella
 
