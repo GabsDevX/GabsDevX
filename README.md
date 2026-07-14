@@ -152,13 +152,11 @@ Execution alongside strategic logistics partners to secure deep-freight corridor
 
 ---
 ## 📊 Financial Architecture & Market Capture
+
 [SYSTEM REGISTER: TAM & PIPELINE EVALUATION]
-├─ Global Supply Chain Software (TAM) : $10,000,000,000,000 ($10T)
-├─ Target Capture Fraction            : 0.1%
-└─ Addressable Pipeline Value         : $10,000,000,000 ($10B)
-<div align="center">
-  <img src="valuation-chart.svg" alt="PoWV Protocol Market Valuation Projection" width="100%" style="max-width: 800px; border-radius: 8px; border: 1px solid #374151;" />
-</div>
+├─ Global Supply Chain Software (TAM) : 10_000_000_000_000  ; $10T
+├─ Target Capture Fraction            : 0.1%                ; Minimalist Target
+└─ Addressable Pipeline Value         : 10_000_000_000      ; $10B Secure Ledger
 
 <div align="center">
   <img src="valuation-chart.svg" alt="PoWV Protocol Market Valuation Projection" width="100%" style="max-width: 800px; border-radius: 8px; border: 1px solid #374151;" />
