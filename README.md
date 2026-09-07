@@ -206,3 +206,11 @@ TARGETS: Infrastructure syndicates, Tech-focused VCs, and PE partners
   <br>
   <sub>Sovereign technology fully enforced under international TRIPS/WIPO treaties and Brazilian Law 9.609/98.</sub>
 </div>
+<br>
+
+<div align="center">
+  <img
+    src="https://raw.githubusercontent.com/GabsDevX/GabsDevX/output/github-contribution-grid-snake-dark.svg"
+    alt="Snake animation"
+  />
+</div>
