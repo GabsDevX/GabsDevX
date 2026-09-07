@@ -25,6 +25,13 @@
   <sub>Oracles, deep-tech research, institutional theses, and hardware-level validation.</sub>
   <br><br>
   <a href="https://www.linkedin.com/company/powv-protocol/" target="_blank"><img src="https://img.shields.io/badge/POWV_PROTOCOL-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Corporate LinkedIn" /></a>&nbsp;&nbsp;<a href="https://www.linkedin.com/in/gabriel-protocolpowv/" target="_blank"><img src="https://img.shields.io/badge/GABRIEL_ALMEIDA-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Personal LinkedIn" /></a>&nbsp;&nbsp;<a href="https://www.youtube.com/@GabrielProtocolPowv" target="_blank"><img src="https://img.shields.io/badge/YOUTUBE-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" /></a>
+  &nbsp;&nbsp;
+<a href="https://orcid.org/0000-0002-3415-4484">
+  <img
+    src="https://img.shields.io/badge/ORCID-0000--0002--3415--4484-A6CE39?style=for-the-badge&logo=orcid&logoColor=white"
+    alt="ORCID"
+  />
+</a>
   <br><br>
   <h3>⬛ Code Architecture &amp; Repositories</h3>
   <a href="https://github.com/powvprotocol-org" target="_blank"><img src="https://img.shields.io/badge/POWV_PROTOCOL_ORG-10B981?style=for-the-badge&logo=github&logoColor=white" alt="Org" /></a>&nbsp;&nbsp;<a href="https://github.com/GabsDevX" target="_blank"><img src="https://img.shields.io/badge/GABSDEVX_PORTFOLIO-333333?style=for-the-badge&logo=github&logoColor=white" alt="Dev" /></a>
