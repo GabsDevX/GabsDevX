@@ -20,7 +20,22 @@
   <h2>🌐 Official Gateway &amp; Cyber-Physical Link Hub</h2>
   <i>Connect to the PoWV ecosystem and track our infrastructure's evolution.</i>
   <br><br>
-<a href="https://www.powvprotocol.com" target="_blank"><img src="https://img.shields.io/badge/POWV_OFFICIAL_SITE-10B981?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Official Site" /></a>&nbsp;&nbsp;<a href="https://powv-protocol.gitbook.io/powv-protocol-docs/" target="_blank"><img src="https://img.shields.io/badge/GITBOOK_DOCUMENTATION-3884FF?style=for-the-badge&logo=gitbook&logoColor=white" alt="GitBook Documentation" /></a>&nbsp;&nbsp;<a href="https://powvprotocol.substack.com/" target="_blank"><img src="https://img.shields.io/badge/SUBSTACK_RESEARCH-FF6600?style=for-the-badge&logo=substack&logoColor=white" alt="Substack" /></a>
+<p align="center">
+  <strong>Gabriel de Almeida</strong>
+  <br><br>
+
+  <a href="https://www.powvprotocol.com" target="_blank">
+    <img src="https://img.shields.io/badge/POWV_OFFICIAL_SITE-10B981?style=for-the-badge&logo=google-chrome&logoColor=white" alt="PoWV Official Site" />
+  </a>&nbsp;&nbsp;
+
+  <a href="https://powv-protocol.gitbook.io/powv-protocol-docs/" target="_blank">
+    <img src="https://img.shields.io/badge/GITBOOK_DOCUMENTATION-3884FF?style=for-the-badge&logo=gitbook&logoColor=white" alt="GitBook Documentation" />
+  </a>&nbsp;&nbsp;
+
+  <a href="https://powvprotocol.substack.com/" target="_blank">
+    <img src="https://img.shields.io/badge/SUBSTACK_RESEARCH-FF6600?style=for-the-badge&logo=substack&logoColor=white" alt="Substack Research" />
+  </a>
+</p>
   <br>
   <sub>Oracles, deep-tech research, institutional theses, and hardware-level validation.</sub>
   <br><br>
