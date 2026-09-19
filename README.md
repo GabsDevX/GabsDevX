@@ -13,12 +13,12 @@
     width="620"
   />
 
-  <h2>Gabriel de Almeida</h2>
+  <br /><br />
 
   <img
-    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=40&duration=4000&pause=1000&color=22D3EE&center=true&vCenter=true&width=520&height=96&lines=Cyber-Physical+Architect;Infrastructure+Engineer"
-    alt="Cyber-Physical Systems Architect — Full-Stack Infrastructure Engineer"
-    width="520"
+    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=34&duration=4000&pause=1000&color=22D3EE&center=true&vCenter=true&width=620&height=86&lines=Cyber-Physical+Architect;Infrastructure+Engineer"
+    alt="Cyber-Physical Architect — Infrastructure Engineer"
+    width="620"
   />
 
   <br />
