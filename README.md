@@ -13,26 +13,20 @@
     width="620"
   />
 
-  <br /><br />
+  <h2>Gabriel de Almeida</h2>
 
   <img
-    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=38&duration=4000&pause=1000&color=22D3EE&center=true&vCenter=true&width=640&height=96&lines=Cyber-Physical+Architect;Infrastructure+Engineer"
+    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=40&duration=4000&pause=1000&color=22D3EE&center=true&vCenter=true&width=520&height=96&lines=Cyber-Physical+Architect;Infrastructure+Engineer"
     alt="Cyber-Physical Systems Architect — Full-Stack Infrastructure Engineer"
-    width="100%"
+    width="520"
   />
 
   <br />
 
   <p>
-    <img src="https://img.shields.io/badge/ROLE-LEAD_ARCHITECT-111827?style=for-the-badge&logo=probot&logoColor=white" alt="Lead Architect" height="36" />
-  </p>
-
-  <p>
-    <img src="https://img.shields.io/badge/FOCUS-CPS_%7C_RWA_%7C_DePIN-0891B2?style=for-the-badge&logo=databricks&logoColor=white" alt="CPS, RWA and DePIN" height="36" />
-  </p>
-
-  <p>
-    <img src="https://img.shields.io/badge/IP-SECURED_%7C_RESTRICTED-C2410C?style=for-the-badge&logo=lock&logoColor=white" alt="Intellectual property status" height="36" />
+    <img src="https://img.shields.io/badge/ROLE-LEAD_ARCHITECT-111827?style=for-the-badge&logo=probot&logoColor=white" alt="Lead Architect" height="34" />
+    <img src="https://img.shields.io/badge/FOCUS-CPS_%7C_RWA_%7C_DePIN-0891B2?style=for-the-badge&logo=databricks&logoColor=white" alt="CPS, RWA and DePIN" height="34" />
+    <img src="https://img.shields.io/badge/IP-SECURED-C2410C?style=for-the-badge&logo=lock&logoColor=white" alt="Intellectual property secured" height="34" />
   </p>
 
   <br />
@@ -42,78 +36,44 @@
   <h3>Languages &amp; Systems Engineering</h3>
 
   <p>
-    <img src="https://img.shields.io/badge/PYTHON-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" height="34" />
+    <img src="https://img.shields.io/badge/PYTHON-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" height="32" />
+    <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C" height="32" />
+    <img src="https://img.shields.io/badge/C%2B%2B-004482?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++" height="32" />
+    <img src="https://img.shields.io/badge/RUST-111827?style=for-the-badge&logo=rust&logoColor=white" alt="Rust" height="32" />
   </p>
 
   <p>
-    <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C" height="34" />
-    <img src="https://img.shields.io/badge/C%2B%2B-004482?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++" height="34" />
-  </p>
-
-  <p>
-    <img src="https://img.shields.io/badge/RUST-111827?style=for-the-badge&logo=rust&logoColor=white" alt="Rust" height="34" />
-  </p>
-
-  <p>
-    <img src="https://img.shields.io/badge/TYPESCRIPT-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" height="34" />
-  </p>
-
-  <p>
-    <img src="https://img.shields.io/badge/JAVASCRIPT-F7DF1E?style=for-the-badge&logo=javascript&logoColor=111827" alt="JavaScript" height="34" />
+    <img src="https://img.shields.io/badge/TYPESCRIPT-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" height="32" />
+    <img src="https://img.shields.io/badge/JAVASCRIPT-F7DF1E?style=for-the-badge&logo=javascript&logoColor=111827" alt="JavaScript" height="32" />
   </p>
 
   <h3>Embedded Hardware &amp; Edge</h3>
 
   <p>
-    <img src="https://img.shields.io/badge/STM32-03234B?style=for-the-badge&logo=stmicroelectronics&logoColor=white" alt="STM32" height="34" />
-  </p>
-
-  <p>
-    <img src="https://img.shields.io/badge/ESP32-E7352C?style=for-the-badge&logo=espressif&logoColor=white" alt="ESP32" height="34" />
-  </p>
-
-  <p>
-    <img src="https://img.shields.io/badge/MQTT-660066?style=for-the-badge&logo=mqtt&logoColor=white" alt="MQTT" height="34" />
+    <img src="https://img.shields.io/badge/STM32-03234B?style=for-the-badge&logo=stmicroelectronics&logoColor=white" alt="STM32" height="32" />
+    <img src="https://img.shields.io/badge/ESP32-E7352C?style=for-the-badge&logo=espressif&logoColor=white" alt="ESP32" height="32" />
+    <img src="https://img.shields.io/badge/RASPBERRY_PI-A22846?style=for-the-badge&logo=raspberrypi&logoColor=white" alt="Raspberry Pi" height="32" />
+    <img src="https://img.shields.io/badge/MQTT-660066?style=for-the-badge&logo=mqtt&logoColor=white" alt="MQTT" height="32" />
   </p>
 
   <h3>Runtime &amp; Infrastructure</h3>
 
   <p>
-    <img src="https://img.shields.io/badge/FLASK-111827?style=for-the-badge&logo=flask&logoColor=white" alt="Flask" height="34" />
-  </p>
-
-  <p>
-    <img src="https://img.shields.io/badge/LINUX-FCC624?style=for-the-badge&logo=linux&logoColor=111827" alt="Linux" height="34" />
-  </p>
-
-  <p>
-    <img src="https://img.shields.io/badge/AWS-TARGET_ARCHITECTURE-FF9900?style=for-the-badge&logo=amazonwebservices&logoColor=white" alt="AWS target architecture" height="34" />
-  </p>
-
-  <p>
-    <img src="https://img.shields.io/badge/ORACLE_CLOUD-TARGET_ARCHITECTURE-F80000?style=for-the-badge&logo=oracle&logoColor=white" alt="Oracle Cloud target architecture" height="34" />
+    <img src="https://img.shields.io/badge/FLASK-111827?style=for-the-badge&logo=flask&logoColor=white" alt="Flask" height="32" />
+    <img src="https://img.shields.io/badge/LINUX-FCC624?style=for-the-badge&logo=linux&logoColor=111827" alt="Linux" height="32" />
+    <img src="https://img.shields.io/badge/AWS-TARGET-FF9900?style=for-the-badge&logo=amazonwebservices&logoColor=white" alt="AWS target architecture" height="32" />
+    <img src="https://img.shields.io/badge/ORACLE_CLOUD-TARGET-F80000?style=for-the-badge&logo=oracle&logoColor=white" alt="Oracle Cloud target architecture" height="32" />
   </p>
 
   <h3>Cryptography &amp; Distributed Ledger</h3>
 
   <p>
-    <img src="https://img.shields.io/badge/ECDSA-P--256-0F766E?style=for-the-badge&logo=letsencrypt&logoColor=white" alt="ECDSA P-256" height="34" />
-  </p>
-
-  <p>
-    <img src="https://img.shields.io/badge/BLOCKCHAIN-AGNOSTIC-0891B2?style=for-the-badge" alt="Blockchain agnostic" height="34" />
-  </p>
-
-  <p>
-    <img src="https://img.shields.io/badge/CASPER_NETWORK-RESEARCH-DC2626?style=for-the-badge" alt="Casper Network research" height="34" />
+    <img src="https://img.shields.io/badge/ECDSA-P--256-0F766E?style=for-the-badge&logo=letsencrypt&logoColor=white" alt="ECDSA P-256" height="32" />
+    <img src="https://img.shields.io/badge/MERKLE-ROOTS-334155?style=for-the-badge" alt="Merkle roots" height="32" />
+    <img src="https://img.shields.io/badge/BLOCKCHAIN-AGNOSTIC-0891B2?style=for-the-badge" alt="Blockchain agnostic" height="32" />
   </p>
 
   <br />
-
-  <h3>Physical events → cryptographic evidence → auditable records</h3>
-  <p>Infrastructure for verifiable mass, custody, provenance, and settlement.</p>
-</div>
- <br />
 
   <h3>Physical events → cryptographic evidence → auditable records</h3>
   <p>Infrastructure for verifiable mass, custody, provenance, and settlement.</p>
@@ -125,25 +85,21 @@
   <h3>Official Channels</h3>
 
   <p>
-    <a href="https://www.powvprotocol.com"><img src="https://img.shields.io/badge/OFFICIAL_SITE-0F766E?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Official website" height="28" /></a>
-    <a href="https://powv-protocol.gitbook.io/powv-protocol-docs/"><img src="https://img.shields.io/badge/DOCUMENTATION-2563EB?style=for-the-badge&logo=gitbook&logoColor=white" alt="GitBook documentation" height="28" /></a>
+    <a href="https://www.powvprotocol.com"><img src="https://img.shields.io/badge/OFFICIAL_SITE-0F766E?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Official website" height="32" /></a>
+    <a href="https://powv-protocol.gitbook.io/powv-protocol-docs/"><img src="https://img.shields.io/badge/DOCUMENTATION-2563EB?style=for-the-badge&logo=gitbook&logoColor=white" alt="GitBook documentation" height="32" /></a>
+    <a href="https://github.com/powvprotocol-org"><img src="https://img.shields.io/badge/PROTOCOL_ORG-18181B?style=for-the-badge&logo=github&logoColor=white" alt="PoWV Protocol GitHub organization" height="32" /></a>
   </p>
+
   <p>
-    <a href="https://github.com/powvprotocol-org"><img src="https://img.shields.io/badge/PROTOCOL_ORG-18181B?style=for-the-badge&logo=github&logoColor=white" alt="PoWV Protocol GitHub organization" height="28" /></a>
-    <a href="https://powvprotocol.substack.com/"><img src="https://img.shields.io/badge/RESEARCH-FF6719?style=for-the-badge&logo=substack&logoColor=white" alt="PoWV Protocol Substack" height="28" /></a>
+    <a href="https://www.linkedin.com/company/powv-protocol/"><img src="https://img.shields.io/badge/PoWV_PROTOCOL-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="PoWV Protocol LinkedIn" height="32" /></a>
+    <a href="https://www.linkedin.com/in/gabriel-protocolpowv/"><img src="https://img.shields.io/badge/GABRIEL_DE_ALMEIDA-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Gabriel de Almeida LinkedIn" height="32" /></a>
+    <a href="https://powvprotocol.substack.com/"><img src="https://img.shields.io/badge/RESEARCH-FF6719?style=for-the-badge&logo=substack&logoColor=white" alt="PoWV Protocol Substack" height="32" /></a>
   </p>
+
   <p>
-    <a href="https://www.linkedin.com/company/powv-protocol/"><img src="https://img.shields.io/badge/PoWV_PROTOCOL-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="PoWV Protocol LinkedIn" height="28" /></a>
-  </p>
-  <p>
-    <a href="https://www.linkedin.com/in/gabriel-protocolpowv/"><img src="https://img.shields.io/badge/GABRIEL_ALMEIDA-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Gabriel Almeida LinkedIn" height="28" /></a>
-  </p>
-  <p>
-    <a href="https://www.youtube.com/@GabrielProtocolPowv"><img src="https://img.shields.io/badge/YOUTUBE-DC2626?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" height="28" /></a>
-    <a href="https://orcid.org/0000-0002-3415-4484"><img src="https://img.shields.io/badge/ORCID-A6CE39?style=for-the-badge&logo=orcid&logoColor=white" alt="ORCID" height="28" /></a>
-  </p>
-  <p>
-    <a href="https://github.com/GabsDevX"><img src="https://img.shields.io/badge/DEVELOPER_PROFILE-3F3F46?style=for-the-badge&logo=github&logoColor=white" alt="GabsDevX GitHub profile" height="28" /></a>
+    <a href="https://www.youtube.com/@GabrielProtocolPowv"><img src="https://img.shields.io/badge/YOUTUBE-DC2626?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" height="32" /></a>
+    <a href="https://orcid.org/0000-0002-3415-4484"><img src="https://img.shields.io/badge/ORCID-A6CE39?style=for-the-badge&logo=orcid&logoColor=white" alt="ORCID" height="32" /></a>
+    <a href="https://github.com/GabsDevX"><img src="https://img.shields.io/badge/DEVELOPER_PROFILE-3F3F46?style=for-the-badge&logo=github&logoColor=white" alt="GabsDevX GitHub profile" height="32" /></a>
   </p>
 </div>
 
