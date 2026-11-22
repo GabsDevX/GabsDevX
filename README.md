@@ -33,7 +33,15 @@ Three distinct, interoperable products and one profile. Names describe intended 
 
 <a href="https://powv-protocol.gitbook.io/powv-protocol-docs/product-proposals/trust-boundaries"><img src="assets/powv-layers.svg" alt="Four layers: physical evidence and operational trust are PoWV's core; institutional recognition is informed by PoWV evidence; tokenization, financing and settlement are downstream systems PoWV supports but does not operate" width="100%" /></a>
 
-The economic thesis covers real-world asset (RWA) tokenization, trade finance and settlement. A tokenized asset is only as credible as the evidence of its physical backing and the controls on who may act on it. PoWV builds those two layers. It does not issue tokens or operate custody, exchange or settlement. The related research on dispute governance, economic finality and risk allocation is public: [Trust Boundaries](https://powv-protocol.gitbook.io/powv-protocol-docs/product-proposals/trust-boundaries) · [Economic Finality & Dispute Governance](https://github.com/powvprotocol-org/protocol-economic-finality) · [Investment & Governance](https://github.com/powvprotocol-org/powv-investment-and-governance).
+<img src="assets/powv-thesis.svg" alt="The thesis: a tokenized asset is only as credible as the evidence of its physical backing and the controls on who may act on it. PoWV builds the evidence and operational-trust layers. It does not issue tokens or operate custody, exchange or settlement." width="100%" />
+
+<table>
+  <tr>
+    <td width="33%"><a href="https://powv-protocol.gitbook.io/powv-protocol-docs/product-proposals/trust-boundaries"><img src="assets/link-boundaries.svg" alt="Trust Boundaries" width="100%" /></a></td>
+    <td width="33%"><a href="https://github.com/powvprotocol-org/protocol-economic-finality"><img src="assets/link-finality.svg" alt="Economic Finality and Dispute Governance" width="100%" /></a></td>
+    <td width="33%"><a href="https://github.com/powvprotocol-org/powv-investment-and-governance"><img src="assets/link-investment.svg" alt="Investment and Governance" width="100%" /></a></td>
+  </tr>
+</table>
 
 ## Explore PoWV
 
@@ -126,16 +134,25 @@ Where to go, depending on what you want to check. Each tile opens the primary re
 
 ## Contact
 
-<p align="center">
-  <a href="mailto:gabriel@powvprotocol.com"><img src="assets/pill-email.svg" alt="Email: gabriel@powvprotocol.com" height="56" /></a>
-  <a href="https://www.linkedin.com/in/gabriel-protocolpowv/"><img src="assets/pill-linkedin.svg" alt="LinkedIn: gabriel-protocolpowv" height="56" /></a>
-  <a href="https://www.powvprotocol.com"><img src="assets/pill-website.svg" alt="Website: powvprotocol.com" height="56" /></a>
-  <a href="https://orcid.org/0000-0002-3415-4484"><img src="assets/pill-orcid.svg" alt="ORCID: 0000-0002-3415-4484" height="56" /></a>
-  <img src="assets/pill-location.svg" alt="Based in Brazil" height="56" />
-</p>
+<table>
+  <tr>
+    <td width="33%"><a href="mailto:gabriel@powvprotocol.com"><img src="assets/contact-email.svg" alt="Email: gabriel@powvprotocol.com" width="100%" /></a></td>
+    <td width="33%"><a href="https://www.powvprotocol.com"><img src="assets/contact-website.svg" alt="Website: powvprotocol.com" width="100%" /></a></td>
+    <td width="33%"><a href="https://powv-protocol.gitbook.io/powv-protocol-docs/overview"><img src="assets/contact-docs.svg" alt="Documentation on GitBook" width="100%" /></a></td>
+  </tr>
+  <tr>
+    <td width="33%"><a href="https://github.com/powvprotocol-org"><img src="assets/contact-github.svg" alt="GitHub: powvprotocol-org" width="100%" /></a></td>
+    <td width="33%"><a href="https://www.linkedin.com/in/gabriel-protocolpowv/"><img src="assets/contact-linkedin.svg" alt="LinkedIn: Gabriel de Almeida" width="100%" /></a></td>
+    <td width="33%"><a href="https://www.linkedin.com/company/powv-protocol/"><img src="assets/contact-linkedin-co.svg" alt="LinkedIn: PoWV Protocol" width="100%" /></a></td>
+  </tr>
+  <tr>
+    <td width="33%"><a href="https://www.youtube.com/@GabrielProtocolPowv"><img src="assets/contact-youtube.svg" alt="YouTube: @GabrielProtocolPowv" width="100%" /></a></td>
+    <td width="33%"><a href="https://powvprotocol.substack.com/"><img src="assets/contact-substack.svg" alt="Substack: research essays" width="100%" /></a></td>
+    <td width="33%"><a href="https://orcid.org/0000-0002-3415-4484"><img src="assets/contact-orcid.svg" alt="ORCID: 0000-0002-3415-4484" width="100%" /></a></td>
+  </tr>
+</table>
 
-<p align="center">Open to technical walkthroughs, research partnerships and pilot discussions. Confidential material is shared under NDA.<br />
-<a href="https://www.linkedin.com/company/powv-protocol/">PoWV on LinkedIn</a> · <a href="https://www.youtube.com/@GabrielProtocolPowv">YouTube</a> · <a href="https://powvprotocol.substack.com/">Substack</a></p>
+<img src="assets/contact-footer.svg" alt="Based in Brazil. Open to technical walkthroughs, research partnerships and pilot discussions. Confidential material is shared under a mutual NDA." width="100%" />
 
 <sub>© 2025–2026 Gabriel de Almeida Santos Silva · PoWV Protocol™ · All rights reserved. Rights holder and IP terms: <a href="https://github.com/powvprotocol-org/powv-governance-and-docs/blob/main/TRADE_SECRET_POLICY.md">Trade Secret and IP Policy</a>.</sub>
 
