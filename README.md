@@ -3,7 +3,7 @@
   <br />
   <picture><source media="(max-width: 767px)" srcset="assets/m/hero.svg" /><img src="assets/powv-hero.svg" alt="Gabriel de Almeida — cyber-physical systems and evidence engineering at PoWV Protocol" width="100%" /></picture>
   <br />
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=20&duration=3500&pause=1200&color=22D3EE&center=true&vCenter=true&width=760&height=44&lines=%24+a+valid+signature+is+not+a+true+measurement;%24+evidence+before+claims;%24+fail+closed%2C+never+silently" alt="A valid signature is not a true measurement · Evidence before claims · Fail closed, never silently" width="760" />
+  <picture><source media="(max-width: 767px)" srcset="assets/m/tagline.svg" /><img src="assets/powv-tagline.svg" alt="A valid signature is not a true measurement. Evidence before claims. Fail closed, never accept silently." width="100%" /></picture>
 </div>
 
 ## About
