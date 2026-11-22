@@ -134,16 +134,25 @@ Where to go, depending on what you want to check. Each tile opens the primary re
 
 ## Contact
 
-<p align="center">
-  <a href="mailto:gabriel@powvprotocol.com"><img src="assets/pill-email.svg" alt="Email: gabriel@powvprotocol.com" height="56" /></a>
-  <a href="https://www.linkedin.com/in/gabriel-protocolpowv/"><img src="assets/pill-linkedin.svg" alt="LinkedIn: gabriel-protocolpowv" height="56" /></a>
-  <a href="https://www.powvprotocol.com"><img src="assets/pill-website.svg" alt="Website: powvprotocol.com" height="56" /></a>
-  <a href="https://orcid.org/0000-0002-3415-4484"><img src="assets/pill-orcid.svg" alt="ORCID: 0000-0002-3415-4484" height="56" /></a>
-  <img src="assets/pill-location.svg" alt="Based in Brazil" height="56" />
-</p>
+<table>
+  <tr>
+    <td width="33%"><a href="mailto:gabriel@powvprotocol.com"><img src="assets/contact-email.svg" alt="Email: gabriel@powvprotocol.com" width="100%" /></a></td>
+    <td width="33%"><a href="https://www.powvprotocol.com"><img src="assets/contact-website.svg" alt="Website: powvprotocol.com" width="100%" /></a></td>
+    <td width="33%"><a href="https://powv-protocol.gitbook.io/powv-protocol-docs/overview"><img src="assets/contact-docs.svg" alt="Documentation on GitBook" width="100%" /></a></td>
+  </tr>
+  <tr>
+    <td width="33%"><a href="https://github.com/powvprotocol-org"><img src="assets/contact-github.svg" alt="GitHub: powvprotocol-org" width="100%" /></a></td>
+    <td width="33%"><a href="https://www.linkedin.com/in/gabriel-protocolpowv/"><img src="assets/contact-linkedin.svg" alt="LinkedIn: Gabriel de Almeida" width="100%" /></a></td>
+    <td width="33%"><a href="https://www.linkedin.com/company/powv-protocol/"><img src="assets/contact-linkedin-co.svg" alt="LinkedIn: PoWV Protocol" width="100%" /></a></td>
+  </tr>
+  <tr>
+    <td width="33%"><a href="https://www.youtube.com/@GabrielProtocolPowv"><img src="assets/contact-youtube.svg" alt="YouTube: @GabrielProtocolPowv" width="100%" /></a></td>
+    <td width="33%"><a href="https://powvprotocol.substack.com/"><img src="assets/contact-substack.svg" alt="Substack: research essays" width="100%" /></a></td>
+    <td width="33%"><a href="https://orcid.org/0000-0002-3415-4484"><img src="assets/contact-orcid.svg" alt="ORCID: 0000-0002-3415-4484" width="100%" /></a></td>
+  </tr>
+</table>
 
-<p align="center">Open to technical walkthroughs, research partnerships and pilot discussions. Confidential material is shared under NDA.<br />
-<a href="https://www.linkedin.com/company/powv-protocol/">PoWV on LinkedIn</a> · <a href="https://www.youtube.com/@GabrielProtocolPowv">YouTube</a> · <a href="https://powvprotocol.substack.com/">Substack</a></p>
+<img src="assets/contact-footer.svg" alt="Based in Brazil. Open to technical walkthroughs, research partnerships and pilot discussions. Confidential material is shared under a mutual NDA." width="100%" />
 
 <sub>© 2025–2026 Gabriel de Almeida Santos Silva · PoWV Protocol™ · All rights reserved. Rights holder and IP terms: <a href="https://github.com/powvprotocol-org/powv-governance-and-docs/blob/main/TRADE_SECRET_POLICY.md">Trade Secret and IP Policy</a>.</sub>
 
