@@ -210,6 +210,52 @@ def render(s, today):
     )
 
 
+def render_mobile(s, today):
+    W, out = 640, []
+    add = out.append
+    cards = [
+        (fmt(s["total"]), "contributions, 12 months"),
+        (fmt(s["public_commits"] + s["private"]), "commits and private work"),
+        (fmt(s["merged"]), "pull requests merged"),
+        (fmt(s["repos"]), "repositories with commits"),
+    ]
+    y = 24
+    for i, (big, label) in enumerate(cards):
+        x = 20 + (i % 2) * 306
+        yy = y + (i // 2) * 150
+        add(f'<rect x="{x}" y="{yy}" width="294" height="136" rx="16" fill="{CARD}" stroke="{LINE}"/>')
+        add(f'<rect x="{x + 22}" y="{yy + 22}" width="32" height="5" rx="2.5" fill="{ACCENTS[i]}"/>')
+        add(f'<text x="{x + 22}" y="{yy + 82}" fill="#fff" font-size="44" font-weight="800" {SANS}>{big}</text>')
+        add(f'<text x="{x + 22}" y="{yy + 116}" fill="#c9d4e3" font-size="19" {SANS}>{escape(label)}</text>')
+    y += 312
+    weeks = s["weeks"][-26:]
+    cell, gap = 18, 4
+    add(f'<rect x="20" y="{y}" width="600" height="250" rx="16" fill="{CARD}" stroke="{LINE}"/>')
+    add(f'<text x="44" y="{y + 40}" fill="#fff" font-size="22" font-weight="700" {SANS}>Last 6 months</text>')
+    gx, gy = 44, y + 66
+    peak = s["peak_count"]
+    for wi, w in enumerate(weeks):
+        for d in w["contributionDays"]:
+            add(f'<rect x="{gx + wi * (cell + gap)}" y="{gy + d["weekday"] * (cell + gap)}" width="{cell}" height="{cell}" rx="4" fill="{LEVELS[level(d["contributionCount"], peak)]}"/>')
+    y += 266
+    small = [(f'{s["longest"]} days', "longest streak"), (fmt(s["active"]), "active days, 12 months"),
+             (fmt(s["peak_count"]), "most in one day"), (s["busiest_weekday"], "busiest weekday")]
+    for i, (big, label) in enumerate(small):
+        x = 20 + (i % 2) * 306
+        yy = y + (i // 2) * 124
+        add(f'<rect x="{x}" y="{yy}" width="294" height="110" rx="16" fill="{CARD}" stroke="{LINE}"/>')
+        add(f'<text x="{x + 22}" y="{yy + 56}" fill="#fff" font-size="32" font-weight="800" {SANS}>{escape(big)}</text>')
+        add(f'<text x="{x + 22}" y="{yy + 90}" fill="{DIM}" font-size="18" {SANS}>{escape(label)}</text>')
+    y += 252
+    add(f'<text x="24" y="{y}" fill="{DIM}" font-size="16" {SANS}>Redrawn twice a day · updated {today.isoformat()}</text>')
+    H = y + 24
+    return (
+        f'<svg xmlns="http://www.w3.org/2000/svg" width="{W}" height="{H}" viewBox="0 0 {W} {H}" role="img" '
+        f'aria-label="GitHub activity for {escape(USER)}">'
+        f'<rect width="{W}" height="{H}" rx="18" fill="{BG}" stroke="{LINE}"/>' + "".join(out) + "</svg>"
+    )
+
+
 def main():
     if len(sys.argv) == 3 and sys.argv[1] == "--fixture":
         with open(sys.argv[2], encoding="utf-8") as fh:
@@ -220,7 +266,10 @@ def main():
     os.makedirs(os.path.dirname(OUT) or ".", exist_ok=True)
     with open(OUT, "w", encoding="utf-8") as fh:
         fh.write(svg)
-    print(f"wrote {OUT}")
+    mobile_out = OUT.replace(".svg", "-mobile.svg")
+    with open(mobile_out, "w", encoding="utf-8") as fh:
+        fh.write(render_mobile(stats(data), dt.date.today()))
+    print(f"wrote {OUT} and {mobile_out}")
 
 
 if __name__ == "__main__":
