@@ -3,7 +3,7 @@
   <br />
   <picture><source media="(max-width: 767px)" srcset="assets/m/hero.svg" /><img src="assets/powv-hero.svg" alt="Gabriel de Almeida — cyber-physical systems and evidence engineering at PoWV Protocol" width="100%" /></picture>
   <br />
-  <picture><source media="(max-width: 767px)" srcset="assets/m/tagline.svg" /><img src="assets/powv-tagline.svg" alt="A valid signature is not a true measurement. Evidence before claims. Fail closed, never accept silently." width="100%" /></picture>
+  <picture><source media="(max-width: 767px)" srcset="assets/m/tagline-v2.svg" /><img src="assets/powv-tagline-v2.svg" alt="Physical events become attributable evidence. Built at the bench, not in slides. A valid signature is not a true measurement." width="100%" /></picture>
 </div>
 
 <p align="center">
