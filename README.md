@@ -81,56 +81,27 @@ Where to go, depending on what you want to check.
 
 <sub>The console runs on a deterministic demo fixture; no operational measurement or signature result is shown.</sub>
 
-<details>
-<summary><strong>More on the shelf</strong> · every public repository, by theme</summary>
-<br />
+## Repositories
+
+Every public repository, by theme: evidence, architecture, investment and security.
 
 <table>
   <tr>
-    <td width="50%" valign="top">
-
-**EVIDENCE AND LABORATORY**
-
-`01` [powv-lab-status](https://github.com/powvprotocol-org/powv-lab-status)<br />Dated status records: scope, results, limits
-
-`02` [powv-scale-edge-integration](https://github.com/powvprotocol-org/powv-scale-edge-integration)<br />September 2026 scale-to-ESP32 bench record
-
-`03` [proof-of-weighted-value](https://github.com/GabsDevX/proof-of-weighted-value)<br />Verification console with a demo fixture
-
-</td>
-    <td width="50%" valign="top">
-
-**ARCHITECTURE AND DOCUMENTATION**
-
-`04` [powv-governance-and-docs](https://github.com/powvprotocol-org/powv-governance-and-docs)<br />GitBook source, disclosure boundary, IP policy
-
-`05` [powv-core](https://github.com/powvprotocol-org/powv-core)<br />Reference architecture and sandbox history
-
-</td>
+    <td width="33%"><a href="https://github.com/powvprotocol-org/powv-lab-status"><picture><source media="(max-width: 767px)" srcset="assets/m/repo-01.svg" /><img src="assets/repo-01.svg" alt="Repository 01" width="100%" /></picture></a></td>
+    <td width="33%"><a href="https://github.com/powvprotocol-org/powv-scale-edge-integration"><picture><source media="(max-width: 767px)" srcset="assets/m/repo-02.svg" /><img src="assets/repo-02.svg" alt="Repository 02" width="100%" /></picture></a></td>
+    <td width="33%"><a href="https://github.com/GabsDevX/proof-of-weighted-value"><picture><source media="(max-width: 767px)" srcset="assets/m/repo-03.svg" /><img src="assets/repo-03.svg" alt="Repository 03" width="100%" /></picture></a></td>
   </tr>
   <tr>
-    <td width="50%" valign="top">
-
-**INVESTMENT AND ECONOMIC RESEARCH**
-
-`06` [powv-investment-and-governance](https://github.com/powvprotocol-org/powv-investment-and-governance)<br />Thesis, R&D cost model, funding, strategy
-
-`07` [protocol-economic-finality](https://github.com/powvprotocol-org/protocol-economic-finality)<br />Disputes, economic finality, risk allocation
-
-</td>
-    <td width="50%" valign="top">
-
-**SECURITY AND WEB**
-
-`08` [powv-embedded-security](https://github.com/powvprotocol-org/powv-embedded-security)<br />Coordinated vulnerability disclosure
-
-`09` [powvprotocol-org.github.io](https://github.com/powvprotocol-org/powvprotocol-org.github.io)<br />Source of powvprotocol.com
-
-</td>
+    <td width="33%"><a href="https://github.com/powvprotocol-org/powv-governance-and-docs"><picture><source media="(max-width: 767px)" srcset="assets/m/repo-04.svg" /><img src="assets/repo-04.svg" alt="Repository 04" width="100%" /></picture></a></td>
+    <td width="33%"><a href="https://github.com/powvprotocol-org/powv-core"><picture><source media="(max-width: 767px)" srcset="assets/m/repo-05.svg" /><img src="assets/repo-05.svg" alt="Repository 05" width="100%" /></picture></a></td>
+    <td width="33%"><a href="https://github.com/powvprotocol-org/powv-investment-and-governance"><picture><source media="(max-width: 767px)" srcset="assets/m/repo-06.svg" /><img src="assets/repo-06.svg" alt="Repository 06" width="100%" /></picture></a></td>
+  </tr>
+  <tr>
+    <td width="33%"><a href="https://github.com/powvprotocol-org/protocol-economic-finality"><picture><source media="(max-width: 767px)" srcset="assets/m/repo-07.svg" /><img src="assets/repo-07.svg" alt="Repository 07" width="100%" /></picture></a></td>
+    <td width="33%"><a href="https://github.com/powvprotocol-org/powv-embedded-security"><picture><source media="(max-width: 767px)" srcset="assets/m/repo-08.svg" /><img src="assets/repo-08.svg" alt="Repository 08" width="100%" /></picture></a></td>
+    <td width="33%"><a href="https://github.com/powvprotocol-org/powvprotocol-org.github.io"><picture><source media="(max-width: 767px)" srcset="assets/m/repo-09.svg" /><img src="assets/repo-09.svg" alt="Repository 09" width="100%" /></picture></a></td>
   </tr>
 </table>
-
-</details>
 
 ## How I work
 
