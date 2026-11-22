@@ -60,6 +60,45 @@ Where to go, depending on what you want to check. Each tile opens the primary re
   </tr>
 </table>
 
+<details open>
+<summary><strong>Demos</strong> · recordings from the repositories</summary>
+<br />
+
+<table>
+  <tr>
+    <td width="100%"><a href="https://github.com/GabsDevX/proof-of-weighted-value"><img src="assets/demo-console.gif" alt="Recording of the PoWV verification console in demo mode: service status, verification stages, the measurement record and its JSON" width="100%" /></a><br /><strong>Verification console</strong> · service status, verification stages and an inspectable event record, running on a deterministic demo fixture with no operational data</td>
+  </tr>
+</table>
+
+</details>
+
+<details>
+<summary><strong>More on the shelf</strong> · every public repository, by theme</summary>
+<br />
+
+**Evidence and laboratory**
+
+- [powv-lab-status](https://github.com/powvprotocol-org/powv-lab-status) · dated status records of the private Virtual Lab: scope, results and limits
+- [powv-scale-edge-integration](https://github.com/powvprotocol-org/powv-scale-edge-integration) · public record of the September 2026 scale-to-ESP32 bench test
+- [proof-of-weighted-value](https://github.com/GabsDevX/proof-of-weighted-value) · verification console with a deterministic demo fixture
+
+**Architecture and documentation**
+
+- [powv-governance-and-docs](https://github.com/powvprotocol-org/powv-governance-and-docs) · canonical GitBook source, disclosure boundary and IP policy
+- [powv-core](https://github.com/powvprotocol-org/powv-core) · reference architecture overview and retired sandbox history
+
+**Investment and economic research**
+
+- [powv-investment-and-governance](https://github.com/powvprotocol-org/powv-investment-and-governance) · investment thesis, R&D cost model, funding scenarios and commercial strategy
+- [protocol-economic-finality](https://github.com/powvprotocol-org/protocol-economic-finality) · dispute governance, economic finality and risk allocation
+
+**Security and web**
+
+- [powv-embedded-security](https://github.com/powvprotocol-org/powv-embedded-security) · coordinated vulnerability disclosure policy
+- [powvprotocol-org.github.io](https://github.com/powvprotocol-org/powvprotocol-org.github.io) · source of powvprotocol.com
+
+</details>
+
 <details>
 <summary><strong>How I work</strong></summary>
 
