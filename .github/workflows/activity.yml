@@ -1,0 +1,42 @@
+name: Generate activity panel
+
+on:
+  schedule:
+    - cron: "41 7,19 * * *"
+  workflow_dispatch:
+  push:
+    branches:
+      - main
+    paths:
+      - .github/scripts/activity.py
+      - .github/workflows/activity.yml
+
+permissions:
+  contents: write
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Render activity panel
+        run: python .github/scripts/activity.py
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          ACTIVITY_USER: GabsDevX
+          ACTIVITY_OUT: dist/activity.svg
+
+      - name: Publish panel
+        uses: crazy-max/ghaction-github-pages@v3.1.0
+        with:
+          target_branch: activity
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}

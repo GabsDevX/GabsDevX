@@ -1,6 +1,6 @@
 <div align="center">
-  <img src="powv-logo.webp.png" alt="PoWV Protocol" width="420" />
-  <br /><br />
+  <img src="assets/powv-header.svg" alt="PoWV Protocol — evidence infrastructure for the physical world" width="100%" />
+  <br />
   <img src="powv-hero.svg" alt="Gabriel de Almeida — cyber-physical systems and evidence engineering at PoWV Protocol" width="100%" />
   <br />
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=20&duration=3500&pause=1200&color=22D3EE&center=true&vCenter=true&width=760&height=44&lines=%24+a+valid+signature+is+not+a+true+measurement;%24+evidence+before+claims;%24+fail+closed%2C+never+silently" alt="A valid signature is not a true measurement · Evidence before claims · Fail closed, never silently" width="760" />
@@ -30,8 +30,6 @@ Three distinct, interoperable products and one profile. Names describe intended 
     <td width="50%"><a href="https://powv-protocol.gitbook.io/powv-protocol-docs/product-proposals/edgeguard/digital-treasury"><img src="assets/card-digital-treasury.svg" alt="PoWV Digital Treasury: proposed EdgeGuard profile" width="100%" /></a></td>
   </tr>
 </table>
-
-## From physical asset to financial instrument
 
 <a href="https://powv-protocol.gitbook.io/powv-protocol-docs/product-proposals/trust-boundaries"><img src="assets/powv-layers.svg" alt="Four layers: physical evidence and operational trust are PoWV's core; institutional recognition is informed by PoWV evidence; tokenization, financing and settlement are downstream systems PoWV supports but does not operate" width="100%" /></a>
 
@@ -124,10 +122,7 @@ Where to go, depending on what you want to check. Each tile opens the primary re
 
 ## Activity
 
-<p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=GabsDevX&show_icons=true&count_private=true&hide_border=true&theme=github_dark" alt="GitHub stats" />
-  <img height="160" src="https://streak-stats.demolab.com?user=GabsDevX&hide_border=true&theme=github-dark-blue" alt="GitHub streak" />
-</p>
+<img src="https://raw.githubusercontent.com/GabsDevX/GabsDevX/activity/activity.svg" alt="GitHub activity: contributions, commits, merged pull requests, a 12-month contribution calendar, longest streak and busiest periods" width="100%" />
 
 ## Contact
 
