@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="350" viewBox="0 0 1200 350" role="img" aria-label="Four layers from physical asset to financial instrument and PoWV's role in each"><defs><linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#0a0e1f"/><stop offset="1" stop-color="#0d1530"/></linearGradient></defs>
+<rect width="1200" height="350" rx="16" fill="url(#bg)"/>
+<g font-family="'Segoe UI','Helvetica Neue',Helvetica,Arial,sans-serif"><text x="40" y="44" fill="#9fb3c8" font-size="14" letter-spacing="2">FROM PHYSICAL ASSET TO FINANCIAL INSTRUMENT</text>
+<rect x="40" y="70" width="1120" height="52" rx="10" fill="#0f1730" stroke="#22d3ee" stroke-opacity=".45"/>
+<text x="66" y="103" fill="#22d3ee" font-size="20" font-weight="700">1</text>
+<text x="100" y="93" fill="#ffffff" font-size="16" font-weight="600">Physical evidence</text><text x="100" y="112" fill="#8a9bb3" font-size="13">What was observed, and can it be checked?</text>
+<text x="760" y="93" fill="#22d3ee" font-size="13" font-weight="700" letter-spacing="1.5">CORE</text><text x="760" y="112" fill="#9fb3c8" font-size="13">Secure Capture Node · Protocol Suite</text><rect x="40" y="132" width="1120" height="52" rx="10" fill="#0f1730" stroke="#22d3ee" stroke-opacity=".45"/>
+<text x="66" y="165" fill="#22d3ee" font-size="20" font-weight="700">2</text>
+<text x="100" y="155" fill="#ffffff" font-size="16" font-weight="600">Operational trust</text><text x="100" y="174" fill="#8a9bb3" font-size="13">May this actor act now, relying on this evidence?</text>
+<text x="760" y="155" fill="#22d3ee" font-size="13" font-weight="700" letter-spacing="1.5">CORE</text><text x="760" y="174" fill="#9fb3c8" font-size="13">EdgeGuard · Digital Treasury profile</text><rect x="40" y="194" width="1120" height="52" rx="10" fill="#0f1730" stroke="#fbbf24" stroke-opacity=".45"/>
+<text x="66" y="227" fill="#fbbf24" font-size="20" font-weight="700">3</text>
+<text x="100" y="217" fill="#ffffff" font-size="16" font-weight="600">Institutional recognition</text><text x="100" y="236" fill="#8a9bb3" font-size="13">Does a valid asset or right exist that the institution accepts?</text>
+<text x="760" y="217" fill="#fbbf24" font-size="13" font-weight="700" letter-spacing="1.5">INFORMS</text><text x="760" y="236" fill="#9fb3c8" font-size="13">PoWV supplies evidentiary assurance</text><rect x="40" y="256" width="1120" height="52" rx="10" fill="#0f1730" stroke="#8a9bb3" stroke-opacity=".45"/>
+<text x="66" y="289" fill="#8a9bb3" font-size="20" font-weight="700">4</text>
+<text x="100" y="279" fill="#ffffff" font-size="16" font-weight="600">Tokenization · financing · settlement</text><text x="100" y="298" fill="#8a9bb3" font-size="13">How is the right represented, financed, held and transferred?</text>
+<text x="760" y="279" fill="#8a9bb3" font-size="13" font-weight="700" letter-spacing="1.5">SUPPORTS</text><text x="760" y="298" fill="#9fb3c8" font-size="13">downstream RWA systems, not operated by PoWV</text></g></svg>

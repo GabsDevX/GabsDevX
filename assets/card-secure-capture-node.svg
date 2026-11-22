@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="600" height="220" viewBox="0 0 600 220" role="img" aria-label="PoWV Secure Capture Node: Proposed"><defs><linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#0a0e1f"/><stop offset="1" stop-color="#0d1530"/></linearGradient></defs>
+<rect width="600" height="220" rx="16" fill="url(#bg)" stroke="#22d3ee" stroke-opacity=".35"/>
+<g font-family="'Segoe UI','Helvetica Neue',Helvetica,Arial,sans-serif"><text x="28" y="54" fill="#f57c00" font-size="22">⬡</text><text x="56" y="54" fill="#ffffff" font-size="22" font-weight="700">PoWV Secure Capture Node</text>
+<text x="28" y="98" fill="#9fb3c8" font-size="15">Dedicated hardware for attributable acquisition of physical</text><text x="28" y="120" fill="#9fb3c8" font-size="15">events at the source.</text>
+<rect x="28" y="168" width="93.6" height="28" rx="14" fill="#2e2305" stroke="#fbbf24" stroke-opacity=".7"/><text x="74.8" y="187" fill="#fbbf24" font-size="13" font-weight="600" text-anchor="middle">Proposed</text>
+<text x="135.6" y="187" fill="#5f708a" font-size="13">precursor bench path demonstrated · Sep 2026</text></g></svg>

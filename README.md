@@ -12,6 +12,31 @@ Founder and architect of **PoWV Protocol**. I design and build systems that turn
 
 > A signature can show that a record is intact. It cannot show that the physical event happened as recorded. PoWV keeps those two claims separate, and I design every layer around that distinction.
 
+## Evidence trail
+
+<a href="https://github.com/powvprotocol-org/powv-lab-status"><img src="assets/powv-timeline.svg" alt="Evidence trail: research begins Sep 2025, Virtual Lab Jun 2026, software validation Sep 6 2026, bench capture Sep 18 2026, engineering hardening Nov 2026; next a signed bench test" width="100%" /></a>
+
+## Product portfolio
+
+Three distinct, interoperable products and one profile. Names describe intended roles; none is commercially available yet.
+
+<table>
+  <tr>
+    <td width="50%"><a href="https://powv-protocol.gitbook.io/powv-protocol-docs/product-proposals/protocol-suite"><img src="assets/card-protocol-suite.svg" alt="PoWV Protocol Suite: demonstrated in controlled conditions for selected software behavior" width="100%" /></a></td>
+    <td width="50%"><a href="https://powv-protocol.gitbook.io/powv-protocol-docs/product-proposals/edgeguard"><img src="assets/card-edgeguard.svg" alt="PoWV EdgeGuard: proposed" width="100%" /></a></td>
+  </tr>
+  <tr>
+    <td width="50%"><a href="https://powv-protocol.gitbook.io/powv-protocol-docs/product-proposals/secure-capture-node"><img src="assets/card-secure-capture-node.svg" alt="PoWV Secure Capture Node: proposed; precursor bench path demonstrated" width="100%" /></a></td>
+    <td width="50%"><a href="https://powv-protocol.gitbook.io/powv-protocol-docs/product-proposals/edgeguard/digital-treasury"><img src="assets/card-digital-treasury.svg" alt="PoWV Digital Treasury: proposed EdgeGuard profile" width="100%" /></a></td>
+  </tr>
+</table>
+
+## From physical asset to financial instrument
+
+<a href="https://powv-protocol.gitbook.io/powv-protocol-docs/product-proposals/trust-boundaries"><img src="assets/powv-layers.svg" alt="Four layers: physical evidence and operational trust are PoWV's core; institutional recognition is informed by PoWV evidence; tokenization, financing and settlement are downstream systems PoWV supports but does not operate" width="100%" /></a>
+
+The economic thesis covers real-world asset (RWA) tokenization, trade finance and settlement. A tokenized asset is only as credible as the evidence of its physical backing and the controls on who may act on it. PoWV builds those two layers. It does not issue tokens or operate custody, exchange or settlement. The related research on dispute governance, economic finality and risk allocation is public: [Trust Boundaries](https://powv-protocol.gitbook.io/powv-protocol-docs/product-proposals/trust-boundaries) · [Economic Finality & Dispute Governance](https://github.com/powvprotocol-org/protocol-economic-finality) · [Investment & Governance](https://github.com/powvprotocol-org/powv-investment-and-governance).
+
 ## Engineering capabilities
 
 | Area | What I have built | Evidence |
@@ -22,17 +47,6 @@ Founder and architect of **PoWV Protocol**. I design and build systems that turn
 | **Verification & testing** | 343 automated tests in CI on two Python versions; cross-language conformance test vectors | [Nov 2026 engineering update](https://github.com/powvprotocol-org/powv-lab-status/blob/main/status/2026-11-software-engineering-update.md) |
 | **Data & backend** | Flask services, durable SQLite audit store, append-only Postgres audit mirror with outbox retry | Private repository, available under NDA |
 | **Architecture & governance** | Product architecture, trust boundaries, disclosure policy, IP governance | [Documentation](https://powv-protocol.gitbook.io/powv-protocol-docs/) |
-
-## How the system fits together
-
-```mermaid
-flowchart LR
-    A["Physical instrument<br/>scale · sensor"] -->|serial capture| B["Edge capture<br/>normalize · identify"]
-    B -->|signed evidence| C["Gateway<br/>verify · replay control"]
-    C --> D["Audit store<br/>hash chain · Merkle"]
-    D --> E["Independent verification<br/>admissibility outcome"]
-    E -.->|planned| F["Ledger anchoring<br/>institutional systems"]
-```
 
 ## Explore PoWV
 
