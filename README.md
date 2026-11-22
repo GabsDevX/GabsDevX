@@ -66,9 +66,16 @@ Where to go, depending on what you want to check. Each tile opens the primary re
 
 <table>
   <tr>
-    <td width="100%"><a href="https://github.com/GabsDevX/proof-of-weighted-value"><img src="assets/demo-console.gif" alt="Recording of the PoWV verification console in demo mode: service status, verification stages, the measurement record and its JSON" width="100%" /></a><br /><strong>Verification console</strong> · service status, verification stages and an inspectable event record, running on a deterministic demo fixture with no operational data</td>
+    <td width="50%"><a href="https://github.com/GabsDevX/proof-of-weighted-value"><img src="assets/demo-console-status.gif" alt="Verification console: service status and verification stages" width="100%" /></a><br /><strong>Verification console</strong> · service status and verification stages</td>
+    <td width="50%"><a href="https://github.com/GabsDevX/proof-of-weighted-value"><img src="assets/demo-console-record.gif" alt="Verification console: measurement record and inspectable JSON" width="100%" /></a><br /><strong>Event record</strong> · a measurement and its inspectable JSON</td>
+  </tr>
+  <tr>
+    <td width="50%"><a href="https://github.com/GabsDevX/proof-of-weighted-value"><img src="assets/demo-console-build.svg" alt="Terminal: the console passes type checking, builds and reports 0 production vulnerabilities" width="100%" /></a><br /><strong>Console build</strong> · type check, production build, dependency audit</td>
+    <td width="50%"><a href="https://github.com/powvprotocol-org/powv-scale-edge-integration/blob/main/docs/integration-module/experimental-record.md"><img src="assets/demo-bench-record.gif" alt="The public experimental record of the September 18, 2026 bench test" width="100%" /></a><br /><strong>Bench record</strong> · the September 18, 2026 scale-to-ESP32 test</td>
   </tr>
 </table>
+
+<sub>The console runs on a deterministic demo fixture; no operational measurement or signature result is shown.</sub>
 
 </details>
 
@@ -99,31 +106,9 @@ Where to go, depending on what you want to check. Each tile opens the primary re
 
 </details>
 
-<details>
-<summary><strong>How I work</strong></summary>
+## How I work
 
-- **Evidence before claims.** Every public statement links to a dated record, and its limits are written next to the result.
-- **Separate what is verified from what is assumed.** Integrity, physical accuracy and key custody are reported as three different things.
-- **Fail closed.** Inconsistent or incomplete evidence is held for review, never silently accepted.
-- **Reproducibility.** Pinned dependencies, CI on every change, and conformance tests that a second implementation must pass.
-- **AI-assisted, human-directed.** I use AI coding tools as accelerators. Architecture, security decisions, review and acceptance remain mine.
-
-</details>
-
-<details>
-<summary><strong>Status and roadmap</strong></summary>
-
-| Stage | Status |
-| --- | --- |
-| Laboratory proof of concept: bench capture and selected software validation (Sep 2026) | Complete |
-| Engineering hardening: audit integrity, conformance, admissibility (Nov 2026, experimental) | In progress |
-| Physical bench test of the signed capture path | Next |
-| Hardware secure element for device identity | Planned |
-| Controlled industrial pilot | Planned |
-
-No product is commercially available yet.
-
-</details>
+<img src="assets/powv-principles.svg" alt="How I work: evidence before claims; verified is not assumed; fail closed; reproducible; AI-assisted, human-directed" width="100%" />
 
 ## Verify It
 
