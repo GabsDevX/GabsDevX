@@ -86,6 +86,12 @@ No product is commercially available yet.
 
 </details>
 
+## Verify It
+
+<img src="assets/powv-verify-it.svg" alt="Verify It: code runs line by line while a scale reading is signed at the edge, verified at the gateway, checked for replay and appended to an audit chain; the result states that physical accuracy is not established" width="100%" />
+
+<sub>Illustrative walkthrough of the evidence path. Pseudocode, not project source; reading values are examples.</sub>
+
 ## Stack
 
 <img src="assets/powv-stack.svg" alt="Stack: edge and physical integration from a commercial scale to an ESP32 receiver; gateway and audit; applied cryptography; verification and testing with 343 tests in CI; architecture and governance; ship pipeline from commit to evidence record" width="100%" />
