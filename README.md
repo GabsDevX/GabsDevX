@@ -117,6 +117,12 @@ Every public repository, by theme: evidence, architecture, investment and securi
 
 <sub>Illustrative walkthrough. Pseudocode, not project source; reading values are examples.</sub>
 
+## Dispute It
+
+<a href="https://github.com/powvprotocol-org/protocol-economic-finality"><picture><source media="(max-width: 767px)" srcset="assets/m/dispute-it.svg" /><img src="assets/powv-dispute-it.svg" alt="Dispute It: a challenged weighing on Lot A moves through submitted, under review, quarantined, authorized decision and settlement. Only the payment is suspended; ownership and the lot are unaffected. Issuance is not operated by PoWV." width="100%" /></picture></a>
+
+<sub>Proposed architecture from the public economic-finality research. No bond amounts, deadlines or slashing rules are defined here.</sub>
+
 ## Stack
 
 <picture><source media="(max-width: 767px)" srcset="assets/m/stack.svg" /><img src="assets/powv-stack.svg" alt="Stack: edge and physical integration, gateway and audit, applied cryptography, verification and testing, architecture and governance" width="100%" /></picture>
