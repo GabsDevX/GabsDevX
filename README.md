@@ -6,6 +6,19 @@
   <picture><source media="(max-width: 767px)" srcset="assets/m/tagline.svg" /><img src="assets/powv-tagline.svg" alt="A valid signature is not a true measurement. Evidence before claims. Fail closed, never accept silently." width="100%" /></picture>
 </div>
 
+<p align="center">
+  <a href="#evidence-trail"><b>Evidence</b></a> ·
+  <a href="#product-portfolio"><b>Products</b></a> ·
+  <a href="#explore-powv"><b>Explore</b></a> ·
+  <a href="#demos"><b>Demos</b></a> ·
+  <a href="#repositories"><b>Repositories</b></a> ·
+  <a href="#verify-it"><b>Verify It</b></a> ·
+  <a href="#dispute-it"><b>Dispute It</b></a> ·
+  <a href="#stack"><b>Stack</b></a> ·
+  <a href="#activity"><b>Activity</b></a> ·
+  <a href="#contact"><b>Contact</b></a>
+</p>
+
 ## About
 
 Founder and architect of **PoWV Protocol**. I design and build systems that turn physical events (a weight, a measurement, a custody handover) into attributable, verifiable digital evidence, from the serial port of an industrial instrument to an auditable record.
@@ -119,7 +132,9 @@ Every public repository, by theme: evidence, architecture, investment and securi
 
 ## Dispute It
 
-<a href="https://github.com/powvprotocol-org/protocol-economic-finality"><picture><source media="(max-width: 767px)" srcset="assets/m/dispute-it.svg" /><img src="assets/powv-dispute-it.svg" alt="Dispute It: a challenged weighing on Lot A moves through submitted, under review, quarantined, authorized decision and settlement. Only the payment is suspended; ownership and the lot are unaffected. Issuance is not operated by PoWV." width="100%" /></picture></a>
+<a href="https://github.com/powvprotocol-org/protocol-economic-finality"><picture><source media="(max-width: 767px)" srcset="assets/m/dispute-it-v2.svg" /><img src="assets/powv-dispute-it-v2.svg" alt="Dispute It: a challenged weighing on Lot A moves through submitted, under review, quarantined, authorized decision and settlement. Only the payment is suspended; ownership and the lot are unaffected. Issuance is not operated by PoWV." width="100%" /></picture></a>
+
+**Outcome:** only the payment is suspended, then settled once. Ownership and the lot itself are never in question.
 
 <sub>Proposed architecture from the public economic-finality research. No bond amounts, deadlines or slashing rules are defined here.</sub>
 
