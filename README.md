@@ -101,16 +101,16 @@ No product is commercially available yet.
 
 ## Contact
 
-<p>
-  <a href="mailto:gabriel@powvprotocol.com"><img src="https://img.shields.io/badge/Email-0F766E?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-  <a href="https://www.powvprotocol.com"><img src="https://img.shields.io/badge/Website-18181B?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website" /></a>
-  <a href="https://www.linkedin.com/in/gabriel-protocolpowv/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="https://www.linkedin.com/company/powv-protocol/"><img src="https://img.shields.io/badge/PoWV_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="PoWV Protocol on LinkedIn" /></a>
-  <a href="https://www.youtube.com/@GabrielProtocolPowv"><img src="https://img.shields.io/badge/YouTube-DC2626?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" /></a>
-  <a href="https://orcid.org/0000-0002-3415-4484"><img src="https://img.shields.io/badge/ORCID-A6CE39?style=for-the-badge&logo=orcid&logoColor=white" alt="ORCID" /></a>
+<p align="center">
+  <a href="mailto:gabriel@powvprotocol.com"><img src="assets/pill-email.svg" alt="Email: gabriel@powvprotocol.com" height="56" /></a>
+  <a href="https://www.linkedin.com/in/gabriel-protocolpowv/"><img src="assets/pill-linkedin.svg" alt="LinkedIn: gabriel-protocolpowv" height="56" /></a>
+  <a href="https://www.powvprotocol.com"><img src="assets/pill-website.svg" alt="Website: powvprotocol.com" height="56" /></a>
+  <a href="https://orcid.org/0000-0002-3415-4484"><img src="assets/pill-orcid.svg" alt="ORCID: 0000-0002-3415-4484" height="56" /></a>
+  <img src="assets/pill-location.svg" alt="Based in Brazil" height="56" />
 </p>
 
-**gabriel@powvprotocol.com** · Open to technical walkthroughs, research partnerships and pilot discussions. Confidential material is shared under NDA.
+<p align="center">Open to technical walkthroughs, research partnerships and pilot discussions. Confidential material is shared under NDA.<br />
+<a href="https://www.linkedin.com/company/powv-protocol/">PoWV on LinkedIn</a> · <a href="https://www.youtube.com/@GabrielProtocolPowv">YouTube</a> · <a href="https://powvprotocol.substack.com/">Substack</a></p>
 
 <sub>© 2025–2026 Gabriel de Almeida Santos Silva · PoWV Protocol™ · All rights reserved. Rights holder and IP terms: <a href="https://github.com/powvprotocol-org/powv-governance-and-docs/blob/main/TRADE_SECRET_POLICY.md">Trade Secret and IP Policy</a>.</sub>
 
