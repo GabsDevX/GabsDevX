@@ -1,6 +1,6 @@
 <div align="center">
-  <img src="powv-logo.webp.png" alt="PoWV Protocol" width="420" />
-  <br /><br />
+  <img src="assets/powv-header.svg" alt="PoWV Protocol — evidence infrastructure for the physical world" width="100%" />
+  <br />
   <img src="powv-hero.svg" alt="Gabriel de Almeida — cyber-physical systems and evidence engineering at PoWV Protocol" width="100%" />
   <br />
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=20&duration=3500&pause=1200&color=22D3EE&center=true&vCenter=true&width=760&height=44&lines=%24+a+valid+signature+is+not+a+true+measurement;%24+evidence+before+claims;%24+fail+closed%2C+never+silently" alt="A valid signature is not a true measurement · Evidence before claims · Fail closed, never silently" width="760" />
@@ -30,8 +30,6 @@ Three distinct, interoperable products and one profile. Names describe intended 
     <td width="50%"><a href="https://powv-protocol.gitbook.io/powv-protocol-docs/product-proposals/edgeguard/digital-treasury"><img src="assets/card-digital-treasury.svg" alt="PoWV Digital Treasury: proposed EdgeGuard profile" width="100%" /></a></td>
   </tr>
 </table>
-
-## From physical asset to financial instrument
 
 <a href="https://powv-protocol.gitbook.io/powv-protocol-docs/product-proposals/trust-boundaries"><img src="assets/powv-layers.svg" alt="Four layers: physical evidence and operational trust are PoWV's core; institutional recognition is informed by PoWV evidence; tokenization, financing and settlement are downstream systems PoWV supports but does not operate" width="100%" /></a>
 
@@ -66,9 +64,16 @@ Where to go, depending on what you want to check. Each tile opens the primary re
 
 <table>
   <tr>
-    <td width="100%"><a href="https://github.com/GabsDevX/proof-of-weighted-value"><img src="assets/demo-console.gif" alt="Recording of the PoWV verification console in demo mode: service status, verification stages, the measurement record and its JSON" width="100%" /></a><br /><strong>Verification console</strong> · service status, verification stages and an inspectable event record, running on a deterministic demo fixture with no operational data</td>
+    <td width="50%"><a href="https://github.com/GabsDevX/proof-of-weighted-value"><img src="assets/demo-console-status.gif" alt="Verification console: service status and verification stages" width="100%" /></a><br /><strong>Verification console</strong> · service status and verification stages</td>
+    <td width="50%"><a href="https://github.com/GabsDevX/proof-of-weighted-value"><img src="assets/demo-console-record.gif" alt="Verification console: measurement record and inspectable JSON" width="100%" /></a><br /><strong>Event record</strong> · a measurement and its inspectable JSON</td>
+  </tr>
+  <tr>
+    <td width="50%"><a href="https://github.com/GabsDevX/proof-of-weighted-value"><img src="assets/demo-console-build.svg" alt="Terminal: the console passes type checking, builds and reports 0 production vulnerabilities" width="100%" /></a><br /><strong>Console build</strong> · type check, production build, dependency audit</td>
+    <td width="50%"><a href="https://github.com/powvprotocol-org/powv-scale-edge-integration/blob/main/docs/integration-module/experimental-record.md"><img src="assets/demo-bench-record.gif" alt="The public experimental record of the September 18, 2026 bench test" width="100%" /></a><br /><strong>Bench record</strong> · the September 18, 2026 scale-to-ESP32 test</td>
   </tr>
 </table>
+
+<sub>The console runs on a deterministic demo fixture; no operational measurement or signature result is shown.</sub>
 
 </details>
 
@@ -99,31 +104,9 @@ Where to go, depending on what you want to check. Each tile opens the primary re
 
 </details>
 
-<details>
-<summary><strong>How I work</strong></summary>
+## How I work
 
-- **Evidence before claims.** Every public statement links to a dated record, and its limits are written next to the result.
-- **Separate what is verified from what is assumed.** Integrity, physical accuracy and key custody are reported as three different things.
-- **Fail closed.** Inconsistent or incomplete evidence is held for review, never silently accepted.
-- **Reproducibility.** Pinned dependencies, CI on every change, and conformance tests that a second implementation must pass.
-- **AI-assisted, human-directed.** I use AI coding tools as accelerators. Architecture, security decisions, review and acceptance remain mine.
-
-</details>
-
-<details>
-<summary><strong>Status and roadmap</strong></summary>
-
-| Stage | Status |
-| --- | --- |
-| Laboratory proof of concept: bench capture and selected software validation (Sep 2026) | Complete |
-| Engineering hardening: audit integrity, conformance, admissibility (Nov 2026, experimental) | In progress |
-| Physical bench test of the signed capture path | Next |
-| Hardware secure element for device identity | Planned |
-| Controlled industrial pilot | Planned |
-
-No product is commercially available yet.
-
-</details>
+<img src="assets/powv-principles.svg" alt="How I work: evidence before claims; verified is not assumed; fail closed; reproducible; AI-assisted, human-directed" width="100%" />
 
 ## Verify It
 
@@ -139,10 +122,7 @@ No product is commercially available yet.
 
 ## Activity
 
-<p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=GabsDevX&show_icons=true&count_private=true&hide_border=true&theme=github_dark" alt="GitHub stats" />
-  <img height="160" src="https://streak-stats.demolab.com?user=GabsDevX&hide_border=true&theme=github-dark-blue" alt="GitHub streak" />
-</p>
+<img src="https://raw.githubusercontent.com/GabsDevX/GabsDevX/activity/activity.svg" alt="GitHub activity: contributions, commits, merged pull requests, a 12-month contribution calendar, longest streak and busiest periods" width="100%" />
 
 ## Contact
 
