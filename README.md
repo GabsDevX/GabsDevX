@@ -37,33 +37,67 @@ Three distinct, interoperable products and one profile. Names describe intended 
 
 The economic thesis covers real-world asset (RWA) tokenization, trade finance and settlement. A tokenized asset is only as credible as the evidence of its physical backing and the controls on who may act on it. PoWV builds those two layers. It does not issue tokens or operate custody, exchange or settlement. The related research on dispute governance, economic finality and risk allocation is public: [Trust Boundaries](https://powv-protocol.gitbook.io/powv-protocol-docs/product-proposals/trust-boundaries) · [Economic Finality & Dispute Governance](https://github.com/powvprotocol-org/protocol-economic-finality) · [Investment & Governance](https://github.com/powvprotocol-org/powv-investment-and-governance).
 
-## Engineering capabilities
-
-| Area | What I have built | Evidence |
-| --- | --- | --- |
-| **Physical integration** | Serial acquisition from a commercial weighing instrument, host-side normalization, delivery to an ESP32 receiver | [Bench record, Sep 2026](https://github.com/powvprotocol-org/powv-scale-edge-integration/blob/main/docs/integration-module/experimental-record.md) |
-| **Applied cryptography** | Edge signing and verification, canonical serialization, hash-chained audit records, Merkle aggregation, key-rotation tooling | [Lab status](https://github.com/powvprotocol-org/powv-lab-status) |
-| **Security engineering** | Threat-driven hardening: replay and duplicate control, idempotent delivery, fail-closed verification, tamper detection, evidence admissibility levels | [Nov 2026 engineering update](https://github.com/powvprotocol-org/powv-lab-status/blob/main/status/2026-11-software-engineering-update.md) |
-| **Verification & testing** | 343 automated tests in CI on two Python versions; cross-language conformance test vectors | [Nov 2026 engineering update](https://github.com/powvprotocol-org/powv-lab-status/blob/main/status/2026-11-software-engineering-update.md) |
-| **Data & backend** | Flask services, durable SQLite audit store, append-only Postgres audit mirror with outbox retry | Private repository, available under NDA |
-| **Architecture & governance** | Product architecture, trust boundaries, disclosure policy, IP governance | [Documentation](https://powv-protocol.gitbook.io/powv-protocol-docs/) |
-
 ## Explore PoWV
 
-A map of where things are. Each link goes to the primary record, not a summary.
+Where to go, depending on what you want to check. Each tile opens the primary record.
 
-| If you want to know… | Go to |
-| --- | --- |
-| **What PoWV is and the problem it addresses** | [Overview](https://powv-protocol.gitbook.io/powv-protocol-docs/overview) · [The Problem](https://powv-protocol.gitbook.io/powv-protocol-docs/the-problem) |
-| **How the architecture works** | [Architecture](https://powv-protocol.gitbook.io/powv-protocol-docs/architecture) · [Evidence Model](https://powv-protocol.gitbook.io/powv-protocol-docs/verifiable-evidence/evidence-model) |
-| **What has actually been demonstrated** | [Project Status](https://powv-protocol.gitbook.io/powv-protocol-docs/project-status) · [Lab Status records](https://github.com/powvprotocol-org/powv-lab-status) · [Bench record, Sep 2026](https://github.com/powvprotocol-org/powv-scale-edge-integration/blob/main/docs/integration-module/experimental-record.md) |
-| **The products and their maturity** | [Product Portfolio](https://powv-protocol.gitbook.io/powv-protocol-docs/product-proposals/) · [Maturity and Availability](https://powv-protocol.gitbook.io/powv-protocol-docs/product-proposals/maturity) |
-| **Where PoWV's role ends (RWA, tokenization, custody)** | [Trust Boundaries](https://powv-protocol.gitbook.io/powv-protocol-docs/product-proposals/trust-boundaries) |
-| **Use cases and the market test** | [Use Cases](https://powv-protocol.gitbook.io/powv-protocol-docs/use-cases) · [Commercial strategy and candidate pilots](https://github.com/powvprotocol-org/powv-investment-and-governance/blob/main/docs/09-commercial-strategy/README.md) · [Rail sandbox](https://github.com/powvprotocol-org/powv-investment-and-governance/blob/main/docs/09-commercial-strategy/RAIL_SANDBOX.md) |
-| **Investment thesis, costs and funding scenarios** | [Investment & Governance](https://github.com/powvprotocol-org/powv-investment-and-governance) · [R&D cost model](https://github.com/powvprotocol-org/powv-investment-and-governance/blob/main/docs/06-financial-model/TECHNOLOGY_CAPITAL_FORMATION.md) · [Capital roadmap](https://github.com/powvprotocol-org/powv-investment-and-governance/blob/main/docs/10-capital-roadmap/README.md) |
-| **Economic finality and dispute research** | [Economic Finality & Dispute Governance](https://github.com/powvprotocol-org/protocol-economic-finality) |
-| **Security, disclosure and IP** | [Threat Model](https://powv-protocol.gitbook.io/powv-protocol-docs/security/threat-model) · [Disclosure Boundary](https://powv-protocol.gitbook.io/powv-protocol-docs/security/disclosure-boundary) · [IP Policy](https://github.com/powvprotocol-org/powv-governance-and-docs/blob/main/TRADE_SECRET_POLICY.md) · [Report a vulnerability](https://github.com/powvprotocol-org/powv-embedded-security) |
-| **Research essays** | [Research & Theses](https://powv-protocol.gitbook.io/powv-protocol-docs/research-and-theses) · [Substack](https://powvprotocol.substack.com/) |
+<table>
+  <tr>
+    <td width="50%"><a href="https://powv-protocol.gitbook.io/powv-protocol-docs/overview"><img src="assets/tile-what.svg" alt="What PoWV is" width="100%" /></a></td>
+    <td width="50%"><a href="https://github.com/powvprotocol-org/powv-lab-status"><img src="assets/tile-demonstrated.svg" alt="What has been demonstrated" width="100%" /></a></td>
+  </tr>
+  <tr>
+    <td width="50%"><a href="https://powv-protocol.gitbook.io/powv-protocol-docs/product-proposals/"><img src="assets/tile-products.svg" alt="Products and maturity" width="100%" /></a></td>
+    <td width="50%"><a href="https://powv-protocol.gitbook.io/powv-protocol-docs/product-proposals/trust-boundaries"><img src="assets/tile-boundaries.svg" alt="RWA and trust boundaries" width="100%" /></a></td>
+  </tr>
+  <tr>
+    <td width="50%"><a href="https://github.com/powvprotocol-org/powv-investment-and-governance/blob/main/docs/09-commercial-strategy/README.md"><img src="assets/tile-market.svg" alt="Market and pilots" width="100%" /></a></td>
+    <td width="50%"><a href="https://github.com/powvprotocol-org/powv-investment-and-governance"><img src="assets/tile-investment.svg" alt="Investment and costs" width="100%" /></a></td>
+  </tr>
+  <tr>
+    <td width="50%"><a href="https://github.com/powvprotocol-org/protocol-economic-finality"><img src="assets/tile-finality.svg" alt="Economic finality" width="100%" /></a></td>
+    <td width="50%"><a href="https://powv-protocol.gitbook.io/powv-protocol-docs/security/disclosure-boundary"><img src="assets/tile-security.svg" alt="Security and IP" width="100%" /></a></td>
+  </tr>
+</table>
+
+<details open>
+<summary><strong>Demos</strong> · recordings from the repositories</summary>
+<br />
+
+<table>
+  <tr>
+    <td width="100%"><a href="https://github.com/GabsDevX/proof-of-weighted-value"><img src="assets/demo-console.gif" alt="Recording of the PoWV verification console in demo mode: service status, verification stages, the measurement record and its JSON" width="100%" /></a><br /><strong>Verification console</strong> · service status, verification stages and an inspectable event record, running on a deterministic demo fixture with no operational data</td>
+  </tr>
+</table>
+
+</details>
+
+<details>
+<summary><strong>More on the shelf</strong> · every public repository, by theme</summary>
+<br />
+
+**Evidence and laboratory**
+
+- [powv-lab-status](https://github.com/powvprotocol-org/powv-lab-status) · dated status records of the private Virtual Lab: scope, results and limits
+- [powv-scale-edge-integration](https://github.com/powvprotocol-org/powv-scale-edge-integration) · public record of the September 2026 scale-to-ESP32 bench test
+- [proof-of-weighted-value](https://github.com/GabsDevX/proof-of-weighted-value) · verification console with a deterministic demo fixture
+
+**Architecture and documentation**
+
+- [powv-governance-and-docs](https://github.com/powvprotocol-org/powv-governance-and-docs) · canonical GitBook source, disclosure boundary and IP policy
+- [powv-core](https://github.com/powvprotocol-org/powv-core) · reference architecture overview and retired sandbox history
+
+**Investment and economic research**
+
+- [powv-investment-and-governance](https://github.com/powvprotocol-org/powv-investment-and-governance) · investment thesis, R&D cost model, funding scenarios and commercial strategy
+- [protocol-economic-finality](https://github.com/powvprotocol-org/protocol-economic-finality) · dispute governance, economic finality and risk allocation
+
+**Security and web**
+
+- [powv-embedded-security](https://github.com/powvprotocol-org/powv-embedded-security) · coordinated vulnerability disclosure policy
+- [powvprotocol-org.github.io](https://github.com/powvprotocol-org/powvprotocol-org.github.io) · source of powvprotocol.com
+
+</details>
 
 <details>
 <summary><strong>How I work</strong></summary>
@@ -91,19 +125,17 @@ No product is commercially available yet.
 
 </details>
 
+## Verify It
+
+<img src="assets/powv-verify-it.svg" alt="Verify It: code runs line by line while a scale reading is signed at the edge, verified at the gateway, checked for replay and appended to an audit chain; the result states that physical accuracy is not established" width="100%" />
+
+<sub>Illustrative walkthrough of the evidence path. Pseudocode, not project source; reading values are examples.</sub>
+
 ## Stack
 
-<p>
-  <img src="https://skillicons.dev/icons?i=python,c,ts,js,react,vite,flask,sqlite,postgres,supabase,linux,git,githubactions,powershell,vscode&perline=15" alt="Python, C, TypeScript, JavaScript, React, Vite, Flask, SQLite, PostgreSQL, Supabase, Linux, Git, GitHub Actions, PowerShell, VS Code" />
-</p>
+<img src="assets/powv-stack.svg" alt="Stack: edge and physical integration from a commercial scale to an ESP32 receiver; gateway and audit; applied cryptography; verification and testing with 343 tests in CI; architecture and governance; ship pipeline from commit to evidence record" width="100%" />
 
-<p>
-  <img src="https://img.shields.io/badge/ESP32-E7352C?style=flat-square&logo=espressif&logoColor=white" alt="ESP32" />
-  <img src="https://img.shields.io/badge/Serial_instrument_capture-334155?style=flat-square" alt="Serial instrument capture" />
-  <img src="https://img.shields.io/badge/Digital_signatures-0F766E?style=flat-square" alt="Digital signatures" />
-  <img src="https://img.shields.io/badge/Merkle_trees-334155?style=flat-square" alt="Merkle trees" />
-  <img src="https://img.shields.io/badge/Secure_element-planned-6B7280?style=flat-square" alt="Secure element planned" />
-</p>
+<sub>Evidence: [Bench record, Sep 2026](https://github.com/powvprotocol-org/powv-scale-edge-integration/blob/main/docs/integration-module/experimental-record.md) · [Engineering update, Nov 2026](https://github.com/powvprotocol-org/powv-lab-status/blob/main/status/2026-11-software-engineering-update.md) · Backend and audit code in a private repository, available under NDA.</sub>
 
 ## Activity
 
@@ -114,16 +146,16 @@ No product is commercially available yet.
 
 ## Contact
 
-<p>
-  <a href="mailto:gabriel@powvprotocol.com"><img src="https://img.shields.io/badge/Email-0F766E?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-  <a href="https://www.powvprotocol.com"><img src="https://img.shields.io/badge/Website-18181B?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website" /></a>
-  <a href="https://www.linkedin.com/in/gabriel-protocolpowv/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="https://www.linkedin.com/company/powv-protocol/"><img src="https://img.shields.io/badge/PoWV_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="PoWV Protocol on LinkedIn" /></a>
-  <a href="https://www.youtube.com/@GabrielProtocolPowv"><img src="https://img.shields.io/badge/YouTube-DC2626?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" /></a>
-  <a href="https://orcid.org/0000-0002-3415-4484"><img src="https://img.shields.io/badge/ORCID-A6CE39?style=for-the-badge&logo=orcid&logoColor=white" alt="ORCID" /></a>
+<p align="center">
+  <a href="mailto:gabriel@powvprotocol.com"><img src="assets/pill-email.svg" alt="Email: gabriel@powvprotocol.com" height="56" /></a>
+  <a href="https://www.linkedin.com/in/gabriel-protocolpowv/"><img src="assets/pill-linkedin.svg" alt="LinkedIn: gabriel-protocolpowv" height="56" /></a>
+  <a href="https://www.powvprotocol.com"><img src="assets/pill-website.svg" alt="Website: powvprotocol.com" height="56" /></a>
+  <a href="https://orcid.org/0000-0002-3415-4484"><img src="assets/pill-orcid.svg" alt="ORCID: 0000-0002-3415-4484" height="56" /></a>
+  <img src="assets/pill-location.svg" alt="Based in Brazil" height="56" />
 </p>
 
-**gabriel@powvprotocol.com** · Open to technical walkthroughs, research partnerships and pilot discussions. Confidential material is shared under NDA.
+<p align="center">Open to technical walkthroughs, research partnerships and pilot discussions. Confidential material is shared under NDA.<br />
+<a href="https://www.linkedin.com/company/powv-protocol/">PoWV on LinkedIn</a> · <a href="https://www.youtube.com/@GabrielProtocolPowv">YouTube</a> · <a href="https://powvprotocol.substack.com/">Substack</a></p>
 
 <sub>© 2025–2026 Gabriel de Almeida Santos Silva · PoWV Protocol™ · All rights reserved. Rights holder and IP terms: <a href="https://github.com/powvprotocol-org/powv-governance-and-docs/blob/main/TRADE_SECRET_POLICY.md">Trade Secret and IP Policy</a>.</sub>
 
