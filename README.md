@@ -74,12 +74,12 @@ Where to go, depending on what you want to check.
 
 <table>
   <tr>
-    <td width="50%"><a href="https://github.com/GabsDevX/proof-of-weighted-value"><img src="assets/demo-console-status.gif" alt="Verification console: service status and verification stages" width="100%" /></a><br /><strong>Verification console</strong><br />service status and stages</td>
-    <td width="50%"><a href="https://github.com/GabsDevX/proof-of-weighted-value"><img src="assets/demo-console-record.gif" alt="Verification console: measurement record and inspectable JSON" width="100%" /></a><br /><strong>Event record</strong><br />a measurement and its JSON</td>
+    <td width="50%"><a href="https://github.com/GabsDevX/proof-of-weighted-value"><img src="assets/demo-console-status-v2.gif" alt="Verification console: service status and verification stages" width="100%" /></a><br /><strong>Verification console</strong><br />service status and stages</td>
+    <td width="50%"><a href="https://github.com/GabsDevX/proof-of-weighted-value"><img src="assets/demo-console-record-v2.gif" alt="Verification console: measurement record and inspectable JSON" width="100%" /></a><br /><strong>Event record</strong><br />a measurement and its JSON</td>
   </tr>
   <tr>
-    <td width="50%"><a href="https://github.com/GabsDevX/proof-of-weighted-value"><img src="assets/demo-console-build.svg" alt="Terminal: type check, production build and dependency audit" width="100%" /></a><br /><strong>Console build</strong><br />type check, build, audit</td>
-    <td width="50%"><a href="https://github.com/powvprotocol-org/powv-scale-edge-integration/blob/main/docs/integration-module/experimental-record.md"><img src="assets/demo-bench-record.gif" alt="The public record of the September 18, 2026 bench test" width="100%" /></a><br /><strong>Bench record</strong><br />September 18, 2026</td>
+    <td width="50%"><a href="https://github.com/GabsDevX/proof-of-weighted-value"><img src="assets/demo-console-build-v2.svg" alt="Terminal: type check, production build and dependency audit" width="100%" /></a><br /><strong>Console build</strong><br />type check, build, audit</td>
+    <td width="50%"><a href="https://github.com/powvprotocol-org/powv-scale-edge-integration/blob/main/docs/integration-module/experimental-record.md"><img src="assets/demo-bench-record-v2.gif" alt="The public record of the September 18, 2026 bench test" width="100%" /></a><br /><strong>Bench record</strong><br />September 18, 2026</td>
   </tr>
 </table>
 
@@ -125,7 +125,7 @@ Every public repository, by theme: evidence, architecture, investment and securi
 
 ## Stack
 
-<picture><source media="(max-width: 767px)" srcset="assets/m/stack.svg" /><img src="assets/powv-stack.svg" alt="Stack: edge and physical integration, gateway and audit, applied cryptography, verification and testing, architecture and governance" width="100%" /></picture>
+<picture><source media="(max-width: 767px)" srcset="assets/m/stack.svg" /><img src="assets/powv-stack-v3.svg" alt="Stack: edge and physical integration, gateway and audit, applied cryptography, verification and testing, architecture and governance" width="100%" /></picture>
 
 ## Activity
 
