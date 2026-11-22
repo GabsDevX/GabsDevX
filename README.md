@@ -33,7 +33,15 @@ Three distinct, interoperable products and one profile. Names describe intended 
 
 <a href="https://powv-protocol.gitbook.io/powv-protocol-docs/product-proposals/trust-boundaries"><img src="assets/powv-layers.svg" alt="Four layers: physical evidence and operational trust are PoWV's core; institutional recognition is informed by PoWV evidence; tokenization, financing and settlement are downstream systems PoWV supports but does not operate" width="100%" /></a>
 
-The economic thesis covers real-world asset (RWA) tokenization, trade finance and settlement. A tokenized asset is only as credible as the evidence of its physical backing and the controls on who may act on it. PoWV builds those two layers. It does not issue tokens or operate custody, exchange or settlement. The related research on dispute governance, economic finality and risk allocation is public: [Trust Boundaries](https://powv-protocol.gitbook.io/powv-protocol-docs/product-proposals/trust-boundaries) · [Economic Finality & Dispute Governance](https://github.com/powvprotocol-org/protocol-economic-finality) · [Investment & Governance](https://github.com/powvprotocol-org/powv-investment-and-governance).
+<img src="assets/powv-thesis.svg" alt="The thesis: a tokenized asset is only as credible as the evidence of its physical backing and the controls on who may act on it. PoWV builds the evidence and operational-trust layers. It does not issue tokens or operate custody, exchange or settlement." width="100%" />
+
+<table>
+  <tr>
+    <td width="33%"><a href="https://powv-protocol.gitbook.io/powv-protocol-docs/product-proposals/trust-boundaries"><img src="assets/link-boundaries.svg" alt="Trust Boundaries" width="100%" /></a></td>
+    <td width="33%"><a href="https://github.com/powvprotocol-org/protocol-economic-finality"><img src="assets/link-finality.svg" alt="Economic Finality and Dispute Governance" width="100%" /></a></td>
+    <td width="33%"><a href="https://github.com/powvprotocol-org/powv-investment-and-governance"><img src="assets/link-investment.svg" alt="Investment and Governance" width="100%" /></a></td>
+  </tr>
+</table>
 
 ## Explore PoWV
 
