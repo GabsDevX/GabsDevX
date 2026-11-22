@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="powv-logo.webp" alt="PoWV Protocol" width="560" />
+    <img src="powv-logo.webp.png" alt="PoWV Protocol" width="560" />
   <br />
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=28&duration=4000&pause=1000&color=22D3EE&center=true&vCenter=true&width=680&height=60&lines=Cyber-Physical+Systems+Architect;Security+%26+Evidence+Engineering;Founder+of+PoWV+Protocol" alt="Cyber-Physical Systems Architect · Security & Evidence Engineering · Founder of PoWV Protocol" width="680" />
 </div>
