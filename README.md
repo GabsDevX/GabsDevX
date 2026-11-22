@@ -1,10 +1,12 @@
 <div align="center">
-    <img src="powv-logo.webp.png" alt="PoWV Protocol" width="560" />
+  <img src="powv-logo.webp.png" alt="PoWV Protocol" width="420" />
+  <br /><br />
+  <img src="powv-hero.svg" alt="Gabriel de Almeida — cyber-physical systems and evidence engineering at PoWV Protocol" width="100%" />
   <br />
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=28&duration=4000&pause=1000&color=22D3EE&center=true&vCenter=true&width=680&height=60&lines=Cyber-Physical+Systems+Architect;Security+%26+Evidence+Engineering;Founder+of+PoWV+Protocol" alt="Cyber-Physical Systems Architect · Security & Evidence Engineering · Founder of PoWV Protocol" width="680" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=20&duration=3500&pause=1200&color=22D3EE&center=true&vCenter=true&width=760&height=44&lines=%24+a+valid+signature+is+not+a+true+measurement;%24+evidence+before+claims;%24+fail+closed%2C+never+silently" alt="A valid signature is not a true measurement · Evidence before claims · Fail closed, never silently" width="760" />
 </div>
 
-## Gabriel de Almeida Santos Silva
+## About
 
 Founder and architect of **PoWV Protocol**. I design and build systems that turn physical events (a weight, a measurement, a custody handover) into attributable, verifiable digital evidence, from the serial port of an industrial instrument to an auditable record.
 

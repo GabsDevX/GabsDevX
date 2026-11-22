@@ -1,0 +1,65 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="380" viewBox="0 0 1200 380" role="img" aria-label="Gabriel de Almeida — cyber-physical systems and evidence engineering at PoWV Protocol">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#0a0e1f"/>
+      <stop offset="1" stop-color="#0d1530"/>
+    </linearGradient>
+    <linearGradient id="bar" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#22d3ee"/>
+      <stop offset="1" stop-color="#22d3ee" stop-opacity="0"/>
+    </linearGradient>
+    <style>
+      .sans { font-family: 'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif; }
+      .mono { font-family: Consolas, 'SFMono-Regular', Menlo, 'Liberation Mono', monospace; }
+      .node { fill: #111a33; stroke: #22d3ee; stroke-opacity: .55; stroke-width: 1.5; }
+      .nlabel { fill: #9fb3c8; font-size: 13px; }
+      .line { opacity: 0; animation: show 9s infinite; }
+      .l1 { animation-delay: .6s; } .l2 { animation-delay: 1.4s; } .l3 { animation-delay: 2.2s; }
+      .l4 { animation-delay: 3.2s; } .l5 { animation-delay: 4.0s; }
+      @keyframes show { 0% { opacity: 0; } 4% { opacity: 1; } 88% { opacity: 1; } 96% { opacity: 0; } 100% { opacity: 0; } }
+      .cursor { animation: blink 1s steps(1) infinite; }
+      @keyframes blink { 50% { opacity: 0; } }
+    </style>
+  </defs>
+
+  <rect width="1200" height="380" rx="18" fill="url(#bg)"/>
+  <g stroke="#ffffff" stroke-opacity=".04">
+    <line x1="0" y1="95" x2="1200" y2="95"/><line x1="0" y1="190" x2="1200" y2="190"/><line x1="0" y1="285" x2="1200" y2="285"/>
+  </g>
+
+  <!-- pipeline -->
+  <path id="pipe" d="M 132 70 H 612" stroke="#22d3ee" stroke-opacity=".35" stroke-width="1.5" fill="none"/>
+  <g class="sans">
+    <rect class="node" x="60" y="52" width="104" height="36" rx="8"/><text class="nlabel" x="112" y="75" text-anchor="middle">scale</text>
+    <rect class="node" x="200" y="52" width="104" height="36" rx="8"/><text class="nlabel" x="252" y="75" text-anchor="middle">edge</text>
+    <rect class="node" x="340" y="52" width="104" height="36" rx="8"/><text class="nlabel" x="392" y="75" text-anchor="middle">gateway</text>
+    <rect class="node" x="480" y="52" width="104" height="36" rx="8"/><text class="nlabel" x="532" y="75" text-anchor="middle">audit</text>
+  </g>
+  <circle r="5" fill="#f57c00">
+    <animateMotion dur="4s" repeatCount="indefinite" path="M 112 70 H 532"/>
+    <animate attributeName="opacity" values="0;1;1;0" keyTimes="0;0.1;0.9;1" dur="4s" repeatCount="indefinite"/>
+  </circle>
+
+  <!-- identity -->
+  <text class="sans" x="60" y="178" fill="#ffffff" font-size="50" font-weight="700">Gabriel de Almeida</text>
+  <text class="sans" x="62" y="218" fill="#22d3ee" font-size="22" font-weight="600">Cyber-physical systems · Evidence engineering</text>
+  <text class="sans" x="62" y="250" fill="#8a9bb3" font-size="17">Founder &amp; architect, PoWV Protocol</text>
+  <text class="sans" x="62" y="290" fill="#5f708a" font-size="15">serial capture · signatures · audit chains · admissibility</text>
+  <rect x="60" y="318" width="10" height="22" rx="2" fill="#f57c00"/>
+  <rect x="76" y="327" width="190" height="4" rx="2" fill="url(#bar)"/>
+
+  <!-- terminal -->
+  <g class="mono" font-size="15" xml:space="preserve">
+    <rect x="700" y="40" width="450" height="300" rx="14" fill="#070b18" stroke="#22d3ee" stroke-opacity=".6" stroke-width="1.5"/>
+    <circle cx="726" cy="64" r="5" fill="#f87171" fill-opacity=".8"/>
+    <circle cx="744" cy="64" r="5" fill="#fbbf24" fill-opacity=".8"/>
+    <circle cx="762" cy="64" r="5" fill="#34d399" fill-opacity=".8"/>
+    <text x="726" y="110" fill="#9fb3c8">$ powv verify --event 0187</text>
+    <text class="line l1" x="726" y="148" fill="#34d399">ok   signature valid</text>
+    <text class="line l2" x="726" y="178" fill="#34d399">ok   replay check passed</text>
+    <text class="line l3" x="726" y="208" fill="#34d399">ok   audit chain intact</text>
+    <text class="line l4" x="726" y="248" fill="#fbbf24">--   physical accuracy: not established</text>
+    <text class="line l5" x="726" y="278" fill="#fbbf24">--   key custody: not attested</text>
+    <text x="726" y="318" fill="#9fb3c8">$ <tspan class="cursor" fill="#22d3ee">█</tspan></text>
+  </g>
+</svg>
