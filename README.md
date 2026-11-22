@@ -16,6 +16,10 @@ Founder and architect of **PoWV Protocol**. I design and build systems that turn
 
 <a href="https://github.com/powvprotocol-org/powv-lab-status"><picture><source media="(max-width: 767px)" srcset="assets/m/timeline.svg" /><img src="assets/powv-timeline.svg" alt="Evidence trail: research begins Sep 2025, Virtual Lab Jun 2026, software validation Sep 6 2026, bench capture Sep 18 2026, engineering hardening Nov 2026; next a signed bench test" width="100%" /></picture></a>
 
+<a href="https://github.com/powvprotocol-org/powv-scale-edge-integration/blob/main/docs/integration-module/experimental-record.md"><img src="assets/bench.jpg" alt="The PoWV laboratory bench: a Urano commercial scale, host computers and the embedded receiver on a breadboard; screens and notes are blurred" width="100%" /></a>
+
+<sub>The laboratory bench: a commercial Urano scale, the host computers and the embedded receiver on the breadboard. Screens and handwritten notes are blurred.</sub>
+
 ## Product portfolio
 
 Three distinct, interoperable products and one profile. None is commercially available yet.
